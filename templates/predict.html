@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Tourism Prediction</title>
+</head>
+<body>
+    <h1>Tourism Prediction</h1>
+
+    <form method="post" action="/predict">
+  <label>State:</label>
+  <select id="state" name="state" required>
+    <option value="">--Select State--</option>
+    {% for s in states %}
+      <option value="{{s}}">{{s}}</option>
+    {% endfor %}
+  </select>
+
+  <label>Famous Place:</label>
+  <select id="place" name="place" required>
+    <option value="">--Select Place--</option>
+    {% for p in places %}
+      <option value="{{p}}">{{p}}</option>
+    {% endfor %}
+  </select>
+
+  <label>Month:</label>
+  <select name="month" required>
+    {% for m in ["January","February","March","April","May","June","July","August","September","October","November","December"] %}
+      <option value="{{m}}">{{m}}</option>
+    {% endfor %}
+  </select>
+
+  <button type="submit">Predict</button>
+</form>
+
+<script>
+document.getElementById("state").addEventListener("change", function(){
+    const state = this.value;
+    fetch(`/places/${state}`)
+      .then(res => res.json())
+      .then(data => {
+          const placeSelect = document.getElementById("place");
+          placeSelect.innerHTML = '<option value="">--Select Place--</option>';
+          data.places.forEach(p => {
+              placeSelect.innerHTML += `<option value="${p}">${p}</option>`;
+          });
+      });
+});
+</script>
+
+{% if results %}
+<h2>Prediction Results:</h2>
+<ul>
+  {% for k,v in results.items() %}
+    <li><b>{{k}}:</b> {{v}}</li>
+  {% endfor %}
+</ul>
+{% endif %}
+
+
+
+    {% if results %}
+    <h2>Results:</h2>
+    <ul>
+        {% for key, value in results.items() %}
+        <li>{{ key }} : {{ value }}</li>
+        {% endfor %}
+    </ul>
+    {% endif %}
+
+    <a href="/">Back to Home</a>
+</body>
+</html>

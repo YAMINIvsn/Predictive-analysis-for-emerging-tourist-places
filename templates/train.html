@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Train Models</title>
+    <link rel="stylesheet" href="/static/style.css">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            padding: 20px;
+            background-color: #f8f9fa;
+        }
+        h1, h3 {
+            color: #333;
+        }
+        table {
+            border-collapse: collapse;
+            width: 70%;
+            margin-top: 20px;
+        }
+        th, td {
+            border: 1px solid #ddd;
+            padding: 10px;
+            text-align: center;
+        }
+        th {
+            background-color: #007bff;
+            color: white;
+        }
+        tr:nth-child(even) {
+            background-color: #f2f2f2;
+        }
+        .message {
+            padding: 10px;
+            background-color: #d4edda;
+            border: 1px solid #c3e6cb;
+            color: #155724;
+            border-radius: 5px;
+            margin-bottom: 20px;
+            width: 70%;
+        }
+    </style>
+</head>
+<body>
+    <h1>Train Models</h1>
+
+    {% if message %}
+    <div class="message">{{ message }}</div>
+    {% endif %}
+
+    {% if metrics %}
+    <h3>Model Performance Metrics</h3>
+    <table>
+        <tr>
+            <th>Target / Model</th>
+            <th>R² / Accuracy</th>
+            <th>RMSE</th>
+        </tr>
+        {% for key, value in metrics.items() %}
+        <tr>
+            <td>{{ key }}</td>
+            <td>
+                {% if value.R2 is defined %}
+                    {{ value.R2 }}
+                {% else %}
+                    {{ value.Accuracy }}
+                {% endif %}
+            </td>
+            <td>
+                {% if value.RMSE is defined %}
+                    {{ value.RMSE }}
+                {% else %}
+                    -
+                {% endif %}
+            </td>
+        </tr>
+        {% endfor %}
+    </table>
+    {% endif %}
+</body>
+</html>

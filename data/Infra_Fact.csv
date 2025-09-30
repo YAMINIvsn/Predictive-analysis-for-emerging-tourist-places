@@ -1,0 +1,181 @@
+State_ID,Year_ID,Famous_Place,No_of_Hotels,Budget_Stay_pct,Luxury_Stay_pct,Avg_Hotel_Occupancy_pct,Govt_Investment_Cr
+1,1,Alleppey Backwaters,1257,56,54,66,817
+1,1,Munnar,264,70,55,45,1052
+1,1,Kovalam Beach,1001,70,33,51,1798
+1,2,Alleppey Backwaters,1934,61,60,40,372
+1,2,Munnar,560,70,50,50,1329
+1,2,Kovalam Beach,826,64,51,77,1200
+1,3,Alleppey Backwaters,1489,53,48,46,542
+1,3,Munnar,922,45,51,62,1981
+1,3,Kovalam Beach,1544,79,38,48,1997
+2,1,Jaipur – Pink City,330,41,60,66,1461
+2,1,Udaipur – City Palace,1709,60,43,81,108
+2,1,Jaisalmer Fort,1150,42,34,42,255
+2,2,Jaipur – Pink City,1877,67,37,77,1869
+2,2,Udaipur – City Palace,332,51,54,43,255
+2,2,Jaisalmer Fort,1649,60,56,73,309
+2,3,Jaipur – Pink City,789,75,22,43,1054
+2,3,Udaipur – City Palace,1021,63,32,79,285
+2,3,Jaisalmer Fort,1565,52,41,46,1498
+3,1,Baga Beach,579,68,29,52,1088
+3,1,Calangute Beach,554,76,56,67,1774
+3,1,Old Goa Churches,617,46,47,44,1369
+3,2,Baga Beach,1722,70,20,73,1864
+3,2,Calangute Beach,852,40,31,57,1394
+3,2,Old Goa Churches,875,68,57,80,1458
+3,3,Baga Beach,1529,61,45,40,1296
+3,3,Calangute Beach,768,75,57,43,1579
+3,3,Old Goa Churches,971,51,27,46,247
+4,1,Manali,840,69,52,69,1235
+4,1,Shimla,1346,61,59,82,65
+4,1,Dharamshala,437,47,48,67,888
+4,2,Manali,1015,59,57,78,871
+4,2,Shimla,1771,52,45,50,763
+4,2,Dharamshala,891,47,55,58,957
+4,3,Manali,772,61,50,72,895
+4,3,Shimla,1484,68,52,89,622
+4,3,Dharamshala,839,64,54,64,188
+5,1,Madurai Meenakshi Temple,1984,79,30,89,72
+5,1,Ooty,555,76,54,46,1851
+5,1,Kanyakumari,1818,76,51,62,1026
+5,2,Madurai Meenakshi Temple,1014,77,25,86,982
+5,2,Ooty,1968,57,60,68,292
+5,2,Kanyakumari,1481,45,58,86,1277
+5,3,Madurai Meenakshi Temple,779,79,39,56,998
+5,3,Ooty,750,56,47,46,641
+5,3,Kanyakumari,557,74,60,54,1142
+6,1,Taj Mahal – Agra,1895,47,60,75,1591
+6,1,Varanasi Ghats,1369,47,31,67,1974
+6,1,Lucknow Bara Imambara,853,51,42,89,1915
+6,2,Taj Mahal – Agra,215,73,53,79,1696
+6,2,Varanasi Ghats,364,79,41,65,1972
+6,2,Lucknow Bara Imambara,1347,61,52,74,1399
+6,3,Taj Mahal – Agra,201,62,59,87,1659
+6,3,Varanasi Ghats,850,47,46,46,789
+6,3,Lucknow Bara Imambara,431,44,49,68,312
+7,1,Gateway of India – Mumbai,1756,48,56,42,1392
+7,1,Ajanta Caves,1199,54,59,75,1382
+7,1,Ellora Caves,1803,76,37,58,486
+7,2,Gateway of India – Mumbai,1205,53,22,52,117
+7,2,Ajanta Caves,718,41,35,58,862
+7,2,Ellora Caves,1858,79,59,70,735
+7,3,Gateway of India – Mumbai,1199,52,37,68,1249
+7,3,Ajanta Caves,494,67,54,67,81
+7,3,Ellora Caves,1964,80,39,46,989
+8,1,Kolkata Victoria Memorial,103,41,57,90,1386
+8,1,Darjeeling,1592,60,25,43,174
+8,1,Sundarbans,111,67,20,61,501
+8,2,Kolkata Victoria Memorial,148,78,49,59,1711
+8,2,Darjeeling,1200,42,48,41,1246
+8,2,Sundarbans,871,54,59,76,388
+8,3,Kolkata Victoria Memorial,1949,63,32,45,1711
+8,3,Darjeeling,508,51,27,48,1989
+8,3,Sundarbans,284,41,59,64,437
+9,1,Kaziranga National Park,960,41,21,82,928
+9,1,Majuli Island,1335,50,38,86,574
+9,1,Guwahati Kamakhya Temple,1056,77,27,57,1450
+9,2,Kaziranga National Park,1562,59,59,42,234
+9,2,Majuli Island,1834,52,57,46,211
+9,2,Guwahati Kamakhya Temple,1986,48,35,61,1623
+9,3,Kaziranga National Park,854,50,29,90,1573
+9,3,Majuli Island,172,53,29,75,1312
+9,3,Guwahati Kamakhya Temple,677,57,25,46,422
+10,1,Mysore Palace,1058,46,40,62,94
+10,1,Coorg,722,67,40,64,1079
+10,1,Hampi,1502,51,22,59,730
+10,2,Mysore Palace,450,70,27,40,1855
+10,2,Coorg,1221,76,20,45,345
+10,2,Hampi,959,67,20,77,1059
+10,3,Mysore Palace,1167,52,38,44,1272
+10,3,Coorg,1330,45,46,84,1592
+10,3,Hampi,1810,75,21,52,1867
+11,1,Red Fort,966,76,26,40,595
+11,1,India Gate,1951,44,60,52,198
+11,1,Qutub Minar,799,45,34,64,556
+11,2,Red Fort,508,55,28,40,937
+11,2,India Gate,1010,43,41,52,1432
+11,2,Qutub Minar,1722,54,40,52,511
+11,3,Red Fort,1496,61,42,88,311
+11,3,India Gate,1751,80,43,40,81
+11,3,Qutub Minar,500,74,35,53,1475
+12,1,Gir National Park,307,68,47,70,1344
+12,1,Somnath Temple,238,54,52,43,1453
+12,1,Rann of Kutch,1321,60,31,63,1901
+12,2,Gir National Park,1151,61,59,61,820
+12,2,Somnath Temple,880,67,39,60,1245
+12,2,Rann of Kutch,1429,69,23,71,168
+12,3,Gir National Park,1086,48,55,76,201
+12,3,Somnath Temple,337,51,32,87,1014
+12,3,Rann of Kutch,1423,76,22,48,392
+13,1,Golden Temple,1129,55,45,54,1247
+13,1,Wagah Border,933,53,41,85,702
+13,1,Jallianwala Bagh,1863,65,34,89,1636
+13,2,Golden Temple,1586,70,59,70,57
+13,2,Wagah Border,672,57,44,88,441
+13,2,Jallianwala Bagh,1697,54,56,85,208
+13,3,Golden Temple,1909,63,23,60,1853
+13,3,Wagah Border,711,57,46,89,1071
+13,3,Jallianwala Bagh,1752,58,35,75,1433
+14,1,Khajuraho Temples,1154,53,49,76,563
+14,1,Kanha National Park,801,49,58,41,1102
+14,1,Bhopal Lake,1393,59,59,41,631
+14,2,Khajuraho Temples,1147,59,58,48,1693
+14,2,Kanha National Park,869,54,30,81,1956
+14,2,Bhopal Lake,214,59,48,77,831
+14,3,Khajuraho Temples,273,80,34,76,1972
+14,3,Kanha National Park,333,68,33,86,867
+14,3,Bhopal Lake,724,54,41,52,633
+15,1,Konark Sun Temple,1170,50,48,45,142
+15,1,Puri Beach,566,51,41,84,1499
+15,1,Chilika Lake,892,70,56,69,157
+15,2,Konark Sun Temple,1965,56,41,75,103
+15,2,Puri Beach,938,58,33,75,1624
+15,2,Chilika Lake,1458,75,26,66,1139
+15,3,Konark Sun Temple,276,49,30,74,1893
+15,3,Puri Beach,918,63,60,72,418
+15,3,Chilika Lake,507,47,22,71,1411
+16,1,Charminar,1897,73,22,84,1572
+16,1,Golconda Fort,1770,75,52,87,1684
+16,1,Ramoji Film City,1171,46,56,66,949
+16,2,Charminar,1308,54,37,53,267
+16,2,Golconda Fort,1479,50,43,56,235
+16,2,Ramoji Film City,1287,67,35,60,301
+16,3,Charminar,1636,57,45,63,1110
+16,3,Golconda Fort,484,47,20,51,1965
+16,3,Ramoji Film City,369,70,25,45,506
+17,1,Tirupati Temple,949,51,29,88,233
+17,1,Araku Valley,117,44,49,65,752
+17,1,Vizag Beaches,1367,65,50,48,1010
+17,2,Tirupati Temple,1468,54,33,74,1590
+17,2,Araku Valley,1792,65,50,80,430
+17,2,Vizag Beaches,275,49,31,76,247
+17,3,Tirupati Temple,602,40,43,47,677
+17,3,Araku Valley,355,48,27,88,169
+17,3,Vizag Beaches,1562,49,41,82,462
+18,1,Bodh Gaya,496,75,23,68,899
+18,1,Nalanda,1014,78,60,50,1655
+18,1,Patna Museum,166,71,33,85,1732
+18,2,Bodh Gaya,299,77,58,44,280
+18,2,Nalanda,124,76,23,78,107
+18,2,Patna Museum,1289,40,39,82,1650
+18,3,Bodh Gaya,1636,77,44,63,728
+18,3,Nalanda,745,49,49,72,1925
+18,3,Patna Museum,1617,75,59,57,1201
+19,1,Mussoorie,231,67,54,88,960
+19,1,Nainital,1282,49,46,52,102
+19,1,Haridwar,1963,57,25,61,128
+19,2,Mussoorie,1283,51,48,87,1260
+19,2,Nainital,106,73,50,43,256
+19,2,Haridwar,1975,40,56,80,309
+19,3,Mussoorie,1984,45,43,61,1721
+19,3,Nainital,1139,78,35,73,72
+19,3,Haridwar,608,61,26,69,1658
+20,1,Srinagar Dal Lake,477,71,46,84,1846
+20,1,Gulmarg,1476,68,22,80,873
+20,1,Vaishno Devi,1159,41,60,53,1776
+20,2,Srinagar Dal Lake,1380,71,38,51,944
+20,2,Gulmarg,1710,69,25,58,1353
+20,2,Vaishno Devi,1651,53,35,63,1398
+20,3,Srinagar Dal Lake,640,52,34,71,1285
+20,3,Gulmarg,109,68,29,44,270
+20,3,Vaishno Devi,1393,46,39,41,1526

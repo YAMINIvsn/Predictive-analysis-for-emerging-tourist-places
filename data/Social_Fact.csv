@@ -1,0 +1,181 @@
+State_ID,Year_ID,Famous_Place,Instagram_Mentions,TripAdvisor_Score,Google_Reviews_Rating,Sentiment_Score
+1,1,Alleppey Backwaters,79856,4.1,4.0,68
+1,1,Munnar,84520,4.7,3.8,62
+1,1,Kovalam Beach,15740,3.5,4.6,74
+1,2,Alleppey Backwaters,68658,3.9,4.2,68
+1,2,Munnar,46706,4.4,3.8,66
+1,2,Kovalam Beach,52782,4.8,4.8,99
+1,3,Alleppey Backwaters,22329,4.3,4.6,73
+1,3,Munnar,51847,4.8,4.5,78
+1,3,Kovalam Beach,83615,4.2,4.0,83
+2,1,Jaipur – Pink City,85163,4.5,3.7,87
+2,1,Udaipur – City Palace,98767,4.9,4.5,69
+2,1,Jaisalmer Fort,45502,4.9,4.7,93
+2,2,Jaipur – Pink City,97407,4.3,3.6,83
+2,2,Udaipur – City Palace,24081,3.8,3.7,62
+2,2,Jaisalmer Fort,96357,4.6,4.1,62
+2,3,Jaipur – Pink City,54377,4.1,4.9,67
+2,3,Udaipur – City Palace,60016,4.5,4.7,61
+2,3,Jaisalmer Fort,77131,4.4,3.7,93
+3,1,Baga Beach,81823,3.6,4.3,66
+3,1,Calangute Beach,8640,4.9,4.9,67
+3,1,Old Goa Churches,68719,3.7,4.3,79
+3,2,Baga Beach,60061,4.9,3.7,98
+3,2,Calangute Beach,65035,4.3,3.7,91
+3,2,Old Goa Churches,48732,4.0,3.5,75
+3,3,Baga Beach,8406,4.9,4.3,90
+3,3,Calangute Beach,66380,4.9,3.9,72
+3,3,Old Goa Churches,58311,3.7,4.2,76
+4,1,Manali,90705,4.5,3.7,95
+4,1,Shimla,92767,4.7,3.8,76
+4,1,Dharamshala,98798,4.0,4.7,60
+4,2,Manali,51007,4.9,4.5,81
+4,2,Shimla,89088,5.0,3.7,93
+4,2,Dharamshala,95616,3.8,4.9,60
+4,3,Manali,86860,3.9,4.2,71
+4,3,Shimla,56946,3.9,4.6,88
+4,3,Dharamshala,54412,3.7,4.1,78
+5,1,Madurai Meenakshi Temple,20894,4.2,4.2,88
+5,1,Ooty,99425,3.6,4.0,95
+5,1,Kanyakumari,27091,3.6,4.0,100
+5,2,Madurai Meenakshi Temple,9613,4.7,4.7,100
+5,2,Ooty,80908,4.7,3.7,72
+5,2,Kanyakumari,16228,5.0,4.6,85
+5,3,Madurai Meenakshi Temple,5005,4.6,4.3,93
+5,3,Ooty,95981,4.1,4.1,95
+5,3,Kanyakumari,64656,4.1,4.8,69
+6,1,Taj Mahal – Agra,18876,4.8,3.7,71
+6,1,Varanasi Ghats,13544,4.2,4.9,87
+6,1,Lucknow Bara Imambara,82300,4.6,4.0,93
+6,2,Taj Mahal – Agra,63772,4.8,4.3,66
+6,2,Varanasi Ghats,29176,4.7,4.4,92
+6,2,Lucknow Bara Imambara,52550,3.5,3.8,88
+6,3,Taj Mahal – Agra,73254,4.2,4.8,83
+6,3,Varanasi Ghats,67370,4.5,4.6,87
+6,3,Lucknow Bara Imambara,75308,4.6,4.5,84
+7,1,Gateway of India – Mumbai,20935,4.4,4.1,60
+7,1,Ajanta Caves,72998,4.3,4.1,71
+7,1,Ellora Caves,18063,4.5,4.2,79
+7,2,Gateway of India – Mumbai,16454,4.5,3.9,91
+7,2,Ajanta Caves,36275,4.3,3.9,93
+7,2,Ellora Caves,90950,3.6,3.8,89
+7,3,Gateway of India – Mumbai,83321,4.1,3.5,99
+7,3,Ajanta Caves,78351,4.1,3.9,77
+7,3,Ellora Caves,78637,4.8,4.9,82
+8,1,Kolkata Victoria Memorial,50619,4.5,3.9,72
+8,1,Darjeeling,54054,4.7,4.0,69
+8,1,Sundarbans,99125,3.9,4.5,74
+8,2,Kolkata Victoria Memorial,72000,4.4,4.9,74
+8,2,Darjeeling,11100,4.0,3.8,95
+8,2,Sundarbans,75313,4.0,4.6,63
+8,3,Kolkata Victoria Memorial,74305,3.9,4.2,78
+8,3,Darjeeling,36824,4.6,4.6,63
+8,3,Sundarbans,50749,3.8,3.6,79
+9,1,Kaziranga National Park,27452,4.9,4.5,68
+9,1,Majuli Island,39838,4.8,4.5,69
+9,1,Guwahati Kamakhya Temple,54970,4.2,3.9,93
+9,2,Kaziranga National Park,21710,3.9,3.6,70
+9,2,Majuli Island,89337,4.5,4.6,80
+9,2,Guwahati Kamakhya Temple,38703,3.9,4.6,84
+9,3,Kaziranga National Park,43779,4.4,3.6,68
+9,3,Majuli Island,83977,4.5,4.5,66
+9,3,Guwahati Kamakhya Temple,55848,4.8,4.0,82
+10,1,Mysore Palace,45308,4.3,3.6,96
+10,1,Coorg,46627,5.0,4.7,82
+10,1,Hampi,88744,4.0,3.6,71
+10,2,Mysore Palace,54688,4.4,4.2,67
+10,2,Coorg,97404,4.4,4.3,67
+10,2,Hampi,5636,3.8,4.9,71
+10,3,Mysore Palace,72084,4.3,3.7,93
+10,3,Coorg,77089,3.7,4.6,99
+10,3,Hampi,87419,4.5,4.9,97
+11,1,Red Fort,82716,3.7,3.8,69
+11,1,India Gate,94836,4.7,4.5,93
+11,1,Qutub Minar,99692,4.6,3.8,63
+11,2,Red Fort,90791,4.2,3.7,63
+11,2,India Gate,9591,3.8,4.2,81
+11,2,Qutub Minar,49291,4.8,4.8,80
+11,3,Red Fort,79438,4.1,3.5,64
+11,3,India Gate,59696,4.8,4.0,63
+11,3,Qutub Minar,50383,3.8,4.2,86
+12,1,Gir National Park,50209,4.8,3.6,68
+12,1,Somnath Temple,21957,4.8,4.4,77
+12,1,Rann of Kutch,21116,4.7,3.7,65
+12,2,Gir National Park,44898,3.6,3.8,72
+12,2,Somnath Temple,59430,4.0,3.8,90
+12,2,Rann of Kutch,65573,4.9,3.8,78
+12,3,Gir National Park,91567,3.6,4.6,78
+12,3,Somnath Temple,41015,4.8,4.3,68
+12,3,Rann of Kutch,95990,4.4,4.4,66
+13,1,Golden Temple,36576,4.5,3.9,88
+13,1,Wagah Border,5492,4.8,4.0,92
+13,1,Jallianwala Bagh,71597,3.7,4.6,73
+13,2,Golden Temple,88646,3.7,4.2,86
+13,2,Wagah Border,29946,4.6,4.5,88
+13,2,Jallianwala Bagh,45191,4.3,3.6,98
+13,3,Golden Temple,27148,3.5,4.3,77
+13,3,Wagah Border,92059,3.6,3.6,99
+13,3,Jallianwala Bagh,68020,4.7,3.6,64
+14,1,Khajuraho Temples,75936,3.7,4.1,65
+14,1,Kanha National Park,28914,4.3,4.8,96
+14,1,Bhopal Lake,89842,4.6,3.6,93
+14,2,Khajuraho Temples,43796,3.7,4.6,88
+14,2,Kanha National Park,50910,3.7,4.3,71
+14,2,Bhopal Lake,14996,4.6,3.5,61
+14,3,Khajuraho Temples,82683,3.5,4.1,80
+14,3,Kanha National Park,14212,4.2,4.9,66
+14,3,Bhopal Lake,6140,5.0,4.6,66
+15,1,Konark Sun Temple,37832,3.9,4.2,96
+15,1,Puri Beach,14549,4.7,3.7,76
+15,1,Chilika Lake,44572,4.5,4.9,86
+15,2,Konark Sun Temple,40684,3.8,4.5,89
+15,2,Puri Beach,54015,4.9,4.8,96
+15,2,Chilika Lake,86158,3.6,4.6,82
+15,3,Konark Sun Temple,42043,4.7,3.8,84
+15,3,Puri Beach,53156,4.5,4.1,82
+15,3,Chilika Lake,95404,3.9,4.7,61
+16,1,Charminar,99285,3.9,4.0,95
+16,1,Golconda Fort,30267,4.7,3.5,84
+16,1,Ramoji Film City,74377,4.0,4.1,94
+16,2,Charminar,90051,3.6,4.0,100
+16,2,Golconda Fort,25302,4.8,4.3,66
+16,2,Ramoji Film City,32721,4.6,4.1,62
+16,3,Charminar,97409,4.2,3.9,95
+16,3,Golconda Fort,30690,4.1,3.6,100
+16,3,Ramoji Film City,14333,3.9,4.7,81
+17,1,Tirupati Temple,73000,3.8,5.0,80
+17,1,Araku Valley,13417,4.6,4.9,82
+17,1,Vizag Beaches,67174,4.2,4.8,94
+17,2,Tirupati Temple,5560,4.5,4.1,70
+17,2,Araku Valley,81995,3.6,3.9,96
+17,2,Vizag Beaches,28134,3.7,4.0,60
+17,3,Tirupati Temple,19959,4.8,3.8,73
+17,3,Araku Valley,68557,4.1,3.8,99
+17,3,Vizag Beaches,61442,3.7,4.6,65
+18,1,Bodh Gaya,15122,3.5,4.6,90
+18,1,Nalanda,70825,4.2,4.6,83
+18,1,Patna Museum,27433,4.4,4.0,81
+18,2,Bodh Gaya,44373,4.3,3.5,79
+18,2,Nalanda,78618,4.0,3.7,76
+18,2,Patna Museum,27165,3.5,3.9,82
+18,3,Bodh Gaya,47670,4.8,4.3,65
+18,3,Nalanda,11186,4.4,4.4,67
+18,3,Patna Museum,12433,4.1,5.0,89
+19,1,Mussoorie,8794,4.3,4.1,73
+19,1,Nainital,59383,4.7,4.7,66
+19,1,Haridwar,92551,3.7,4.8,96
+19,2,Mussoorie,59757,4.0,4.5,74
+19,2,Nainital,75060,4.4,3.9,86
+19,2,Haridwar,81478,3.7,3.6,88
+19,3,Mussoorie,77757,4.5,4.0,63
+19,3,Nainital,28001,4.9,4.7,64
+19,3,Haridwar,14312,3.8,4.9,95
+20,1,Srinagar Dal Lake,17771,4.5,3.6,98
+20,1,Gulmarg,75815,4.3,4.7,70
+20,1,Vaishno Devi,76416,4.9,4.6,90
+20,2,Srinagar Dal Lake,53871,4.9,4.1,94
+20,2,Gulmarg,54981,4.1,3.8,64
+20,2,Vaishno Devi,77413,3.9,4.5,66
+20,3,Srinagar Dal Lake,98335,3.7,4.3,80
+20,3,Gulmarg,87836,4.2,4.2,68
+20,3,Vaishno Devi,7454,4.9,4.1,97

@@ -1,0 +1,2161 @@
+State_ID,Year_ID,Month_ID,Famous_Place,Avg_Temperature_C,Festive_Season,Tourist_Footfall
+1,1,1,Alleppey Backwaters,18.6,No,215822
+1,1,2,Alleppey Backwaters,30.2,No,288389
+1,1,3,Alleppey Backwaters,17.3,No,203155
+1,1,4,Alleppey Backwaters,19.9,No,260516
+1,1,5,Alleppey Backwaters,33.6,Yes,33315
+1,1,6,Alleppey Backwaters,19.9,Yes,103485
+1,1,7,Alleppey Backwaters,20.2,Yes,113841
+1,1,8,Alleppey Backwaters,12.8,Yes,111414
+1,1,9,Alleppey Backwaters,34.6,Yes,255283
+1,1,10,Alleppey Backwaters,30.7,Yes,119687
+1,1,11,Alleppey Backwaters,22.1,Yes,21780
+1,1,12,Alleppey Backwaters,32.7,No,124203
+1,1,1,Munnar,20.8,No,215316
+1,1,2,Munnar,14.4,Yes,137378
+1,1,3,Munnar,23.5,Yes,138288
+1,1,4,Munnar,11.0,No,216812
+1,1,5,Munnar,33.5,No,230204
+1,1,6,Munnar,20.5,Yes,45830
+1,1,7,Munnar,11.3,Yes,80616
+1,1,8,Munnar,17.0,No,97622
+1,1,9,Munnar,13.1,No,169033
+1,1,10,Munnar,26.4,Yes,273368
+1,1,11,Munnar,18.7,Yes,153457
+1,1,12,Munnar,14.5,No,135561
+1,1,1,Kovalam Beach,34.0,Yes,83900
+1,1,2,Kovalam Beach,24.5,Yes,262780
+1,1,3,Kovalam Beach,18.7,No,198429
+1,1,4,Kovalam Beach,22.9,Yes,198145
+1,1,5,Kovalam Beach,21.0,Yes,201044
+1,1,6,Kovalam Beach,24.2,Yes,26519
+1,1,7,Kovalam Beach,14.1,No,116625
+1,1,8,Kovalam Beach,24.7,Yes,127938
+1,1,9,Kovalam Beach,31.4,Yes,59699
+1,1,10,Kovalam Beach,25.0,No,244737
+1,1,11,Kovalam Beach,19.1,No,215344
+1,1,12,Kovalam Beach,10.6,No,218126
+1,2,1,Alleppey Backwaters,26.9,Yes,227214
+1,2,2,Alleppey Backwaters,33.6,No,46359
+1,2,3,Alleppey Backwaters,22.7,Yes,275868
+1,2,4,Alleppey Backwaters,22.1,Yes,90697
+1,2,5,Alleppey Backwaters,14.2,No,125148
+1,2,6,Alleppey Backwaters,20.6,No,275882
+1,2,7,Alleppey Backwaters,31.4,Yes,91738
+1,2,8,Alleppey Backwaters,30.2,Yes,164188
+1,2,9,Alleppey Backwaters,32.9,No,246763
+1,2,10,Alleppey Backwaters,34.0,Yes,253310
+1,2,11,Alleppey Backwaters,14.4,Yes,271100
+1,2,12,Alleppey Backwaters,17.4,No,292748
+1,2,1,Munnar,26.2,No,44129
+1,2,2,Munnar,14.5,Yes,60562
+1,2,3,Munnar,33.9,No,89899
+1,2,4,Munnar,14.9,No,20171
+1,2,5,Munnar,16.3,No,233090
+1,2,6,Munnar,28.6,Yes,289726
+1,2,7,Munnar,18.0,No,176451
+1,2,8,Munnar,17.1,No,266967
+1,2,9,Munnar,24.7,No,240636
+1,2,10,Munnar,32.9,No,268586
+1,2,11,Munnar,17.4,Yes,38213
+1,2,12,Munnar,13.5,No,44817
+1,2,1,Kovalam Beach,19.5,No,31336
+1,2,2,Kovalam Beach,34.0,No,138890
+1,2,3,Kovalam Beach,19.4,No,141611
+1,2,4,Kovalam Beach,16.4,No,284202
+1,2,5,Kovalam Beach,15.3,Yes,252559
+1,2,6,Kovalam Beach,16.0,Yes,70666
+1,2,7,Kovalam Beach,27.4,Yes,99720
+1,2,8,Kovalam Beach,14.8,Yes,61548
+1,2,9,Kovalam Beach,10.8,No,137149
+1,2,10,Kovalam Beach,16.4,No,26168
+1,2,11,Kovalam Beach,25.5,Yes,263017
+1,2,12,Kovalam Beach,16.5,No,225595
+1,3,1,Alleppey Backwaters,11.3,Yes,118746
+1,3,2,Alleppey Backwaters,22.8,Yes,35369
+1,3,3,Alleppey Backwaters,16.3,No,217102
+1,3,4,Alleppey Backwaters,23.4,Yes,238770
+1,3,5,Alleppey Backwaters,32.5,Yes,31237
+1,3,6,Alleppey Backwaters,19.0,Yes,225337
+1,3,7,Alleppey Backwaters,14.4,No,144735
+1,3,8,Alleppey Backwaters,33.6,Yes,34268
+1,3,9,Alleppey Backwaters,10.5,Yes,219325
+1,3,10,Alleppey Backwaters,30.9,No,50295
+1,3,11,Alleppey Backwaters,29.8,Yes,21776
+1,3,12,Alleppey Backwaters,18.8,No,49365
+1,3,1,Munnar,20.8,No,278083
+1,3,2,Munnar,12.1,Yes,206789
+1,3,3,Munnar,20.3,Yes,96418
+1,3,4,Munnar,20.0,Yes,202373
+1,3,5,Munnar,13.7,Yes,58601
+1,3,6,Munnar,27.6,Yes,204434
+1,3,7,Munnar,12.7,Yes,70901
+1,3,8,Munnar,20.7,Yes,181015
+1,3,9,Munnar,14.0,No,189663
+1,3,10,Munnar,11.6,No,40949
+1,3,11,Munnar,17.5,No,112801
+1,3,12,Munnar,20.4,No,79128
+1,3,1,Kovalam Beach,32.3,Yes,185373
+1,3,2,Kovalam Beach,17.2,No,23526
+1,3,3,Kovalam Beach,13.4,Yes,76037
+1,3,4,Kovalam Beach,20.7,No,58958
+1,3,5,Kovalam Beach,29.7,Yes,26226
+1,3,6,Kovalam Beach,22.0,No,50192
+1,3,7,Kovalam Beach,31.9,Yes,204935
+1,3,8,Kovalam Beach,25.0,Yes,133460
+1,3,9,Kovalam Beach,33.9,No,134851
+1,3,10,Kovalam Beach,11.1,No,104368
+1,3,11,Kovalam Beach,34.3,No,212489
+1,3,12,Kovalam Beach,14.0,No,122784
+2,1,1,Jaipur – Pink City,25.3,No,22372
+2,1,2,Jaipur – Pink City,13.1,Yes,43320
+2,1,3,Jaipur – Pink City,15.0,No,186735
+2,1,4,Jaipur – Pink City,31.8,Yes,263510
+2,1,5,Jaipur – Pink City,30.9,No,188785
+2,1,6,Jaipur – Pink City,23.9,No,274433
+2,1,7,Jaipur – Pink City,19.8,No,32783
+2,1,8,Jaipur – Pink City,25.1,Yes,100603
+2,1,9,Jaipur – Pink City,12.8,Yes,212470
+2,1,10,Jaipur – Pink City,13.2,No,228520
+2,1,11,Jaipur – Pink City,13.9,Yes,150111
+2,1,12,Jaipur – Pink City,25.7,Yes,76692
+2,1,1,Udaipur – City Palace,16.2,No,234211
+2,1,2,Udaipur – City Palace,34.9,No,77194
+2,1,3,Udaipur – City Palace,20.9,Yes,102318
+2,1,4,Udaipur – City Palace,26.4,Yes,63095
+2,1,5,Udaipur – City Palace,29.9,Yes,116683
+2,1,6,Udaipur – City Palace,31.1,No,24546
+2,1,7,Udaipur – City Palace,33.8,No,52056
+2,1,8,Udaipur – City Palace,30.6,Yes,144410
+2,1,9,Udaipur – City Palace,22.2,Yes,115989
+2,1,10,Udaipur – City Palace,32.3,Yes,294995
+2,1,11,Udaipur – City Palace,32.3,No,141262
+2,1,12,Udaipur – City Palace,26.7,Yes,28462
+2,1,1,Jaisalmer Fort,12.6,No,153090
+2,1,2,Jaisalmer Fort,23.3,Yes,169632
+2,1,3,Jaisalmer Fort,10.9,No,117192
+2,1,4,Jaisalmer Fort,17.6,Yes,74939
+2,1,5,Jaisalmer Fort,19.3,Yes,42382
+2,1,6,Jaisalmer Fort,20.2,Yes,134640
+2,1,7,Jaisalmer Fort,25.5,No,248899
+2,1,8,Jaisalmer Fort,10.1,No,104526
+2,1,9,Jaisalmer Fort,15.0,Yes,250255
+2,1,10,Jaisalmer Fort,32.4,No,193660
+2,1,11,Jaisalmer Fort,11.5,Yes,236664
+2,1,12,Jaisalmer Fort,13.1,Yes,167642
+2,2,1,Jaipur – Pink City,14.8,Yes,100902
+2,2,2,Jaipur – Pink City,21.2,Yes,81718
+2,2,3,Jaipur – Pink City,32.3,Yes,232031
+2,2,4,Jaipur – Pink City,34.8,Yes,103903
+2,2,5,Jaipur – Pink City,22.2,Yes,283202
+2,2,6,Jaipur – Pink City,14.1,Yes,237626
+2,2,7,Jaipur – Pink City,11.0,No,153937
+2,2,8,Jaipur – Pink City,20.9,No,123752
+2,2,9,Jaipur – Pink City,19.7,Yes,290171
+2,2,10,Jaipur – Pink City,13.9,No,86758
+2,2,11,Jaipur – Pink City,31.3,Yes,210221
+2,2,12,Jaipur – Pink City,29.5,Yes,92938
+2,2,1,Udaipur – City Palace,11.4,No,79590
+2,2,2,Udaipur – City Palace,25.5,Yes,285549
+2,2,3,Udaipur – City Palace,30.7,No,27856
+2,2,4,Udaipur – City Palace,20.5,Yes,206100
+2,2,5,Udaipur – City Palace,15.1,Yes,107228
+2,2,6,Udaipur – City Palace,17.6,No,205215
+2,2,7,Udaipur – City Palace,22.7,No,43367
+2,2,8,Udaipur – City Palace,12.5,No,125903
+2,2,9,Udaipur – City Palace,14.8,No,292880
+2,2,10,Udaipur – City Palace,19.2,No,211429
+2,2,11,Udaipur – City Palace,13.0,No,41207
+2,2,12,Udaipur – City Palace,14.4,Yes,274166
+2,2,1,Jaisalmer Fort,23.1,No,150850
+2,2,2,Jaisalmer Fort,10.4,Yes,58936
+2,2,3,Jaisalmer Fort,28.2,Yes,31674
+2,2,4,Jaisalmer Fort,23.2,No,146775
+2,2,5,Jaisalmer Fort,15.7,No,81646
+2,2,6,Jaisalmer Fort,15.0,No,96462
+2,2,7,Jaisalmer Fort,16.1,No,172612
+2,2,8,Jaisalmer Fort,31.8,Yes,119664
+2,2,9,Jaisalmer Fort,14.6,No,205459
+2,2,10,Jaisalmer Fort,29.2,No,244372
+2,2,11,Jaisalmer Fort,13.8,No,254357
+2,2,12,Jaisalmer Fort,21.2,Yes,299406
+2,3,1,Jaipur – Pink City,18.6,No,221965
+2,3,2,Jaipur – Pink City,24.0,No,26599
+2,3,3,Jaipur – Pink City,34.6,Yes,158364
+2,3,4,Jaipur – Pink City,31.0,Yes,213647
+2,3,5,Jaipur – Pink City,14.3,Yes,293809
+2,3,6,Jaipur – Pink City,18.5,Yes,25996
+2,3,7,Jaipur – Pink City,20.0,Yes,215616
+2,3,8,Jaipur – Pink City,28.7,No,102241
+2,3,9,Jaipur – Pink City,17.3,Yes,38482
+2,3,10,Jaipur – Pink City,32.3,Yes,20422
+2,3,11,Jaipur – Pink City,13.0,Yes,144612
+2,3,12,Jaipur – Pink City,32.2,Yes,129059
+2,3,1,Udaipur – City Palace,15.2,Yes,158644
+2,3,2,Udaipur – City Palace,29.0,Yes,177565
+2,3,3,Udaipur – City Palace,31.1,Yes,296073
+2,3,4,Udaipur – City Palace,29.1,Yes,165427
+2,3,5,Udaipur – City Palace,28.9,No,120784
+2,3,6,Udaipur – City Palace,30.7,No,71051
+2,3,7,Udaipur – City Palace,12.9,Yes,297467
+2,3,8,Udaipur – City Palace,17.6,No,171666
+2,3,9,Udaipur – City Palace,10.7,Yes,282885
+2,3,10,Udaipur – City Palace,27.6,Yes,174025
+2,3,11,Udaipur – City Palace,31.1,No,92589
+2,3,12,Udaipur – City Palace,12.7,Yes,257797
+2,3,1,Jaisalmer Fort,13.3,No,109923
+2,3,2,Jaisalmer Fort,34.9,No,206371
+2,3,3,Jaisalmer Fort,12.9,No,38407
+2,3,4,Jaisalmer Fort,22.5,Yes,284062
+2,3,5,Jaisalmer Fort,24.1,Yes,163508
+2,3,6,Jaisalmer Fort,11.8,Yes,63306
+2,3,7,Jaisalmer Fort,18.4,Yes,191733
+2,3,8,Jaisalmer Fort,15.8,Yes,191847
+2,3,9,Jaisalmer Fort,20.1,Yes,182806
+2,3,10,Jaisalmer Fort,17.1,Yes,259470
+2,3,11,Jaisalmer Fort,27.2,Yes,208485
+2,3,12,Jaisalmer Fort,19.1,Yes,151580
+3,1,1,Baga Beach,33.6,No,282565
+3,1,2,Baga Beach,29.1,No,230400
+3,1,3,Baga Beach,21.2,Yes,161702
+3,1,4,Baga Beach,28.5,No,277554
+3,1,5,Baga Beach,27.9,Yes,159267
+3,1,6,Baga Beach,28.2,Yes,64530
+3,1,7,Baga Beach,26.6,No,102639
+3,1,8,Baga Beach,12.7,Yes,88772
+3,1,9,Baga Beach,25.9,Yes,225200
+3,1,10,Baga Beach,27.3,Yes,38802
+3,1,11,Baga Beach,21.1,No,48311
+3,1,12,Baga Beach,24.8,Yes,167645
+3,1,1,Calangute Beach,19.1,No,178150
+3,1,2,Calangute Beach,32.5,No,56119
+3,1,3,Calangute Beach,21.9,Yes,194029
+3,1,4,Calangute Beach,18.9,No,97577
+3,1,5,Calangute Beach,31.9,No,284571
+3,1,6,Calangute Beach,17.4,No,69252
+3,1,7,Calangute Beach,25.1,Yes,26273
+3,1,8,Calangute Beach,14.4,No,154235
+3,1,9,Calangute Beach,25.1,Yes,216535
+3,1,10,Calangute Beach,23.4,No,160834
+3,1,11,Calangute Beach,26.9,No,33787
+3,1,12,Calangute Beach,22.1,Yes,89604
+3,1,1,Old Goa Churches,15.2,No,159267
+3,1,2,Old Goa Churches,31.3,No,129588
+3,1,3,Old Goa Churches,21.2,No,206111
+3,1,4,Old Goa Churches,19.3,Yes,236568
+3,1,5,Old Goa Churches,33.1,Yes,127087
+3,1,6,Old Goa Churches,15.6,Yes,268075
+3,1,7,Old Goa Churches,28.0,No,275315
+3,1,8,Old Goa Churches,21.3,Yes,225573
+3,1,9,Old Goa Churches,22.5,Yes,255408
+3,1,10,Old Goa Churches,22.0,Yes,140801
+3,1,11,Old Goa Churches,21.9,No,160936
+3,1,12,Old Goa Churches,25.3,Yes,280207
+3,2,1,Baga Beach,13.0,Yes,44970
+3,2,2,Baga Beach,29.4,Yes,299620
+3,2,3,Baga Beach,28.2,Yes,236847
+3,2,4,Baga Beach,32.4,Yes,284391
+3,2,5,Baga Beach,17.7,No,137034
+3,2,6,Baga Beach,15.5,No,166087
+3,2,7,Baga Beach,23.6,No,156757
+3,2,8,Baga Beach,11.0,No,267302
+3,2,9,Baga Beach,14.8,No,106018
+3,2,10,Baga Beach,18.9,No,37255
+3,2,11,Baga Beach,23.3,No,207264
+3,2,12,Baga Beach,20.4,No,223009
+3,2,1,Calangute Beach,28.8,Yes,249196
+3,2,2,Calangute Beach,26.1,Yes,34168
+3,2,3,Calangute Beach,13.8,No,179617
+3,2,4,Calangute Beach,31.4,Yes,146261
+3,2,5,Calangute Beach,10.8,No,185668
+3,2,6,Calangute Beach,29.7,Yes,195635
+3,2,7,Calangute Beach,30.9,Yes,194454
+3,2,8,Calangute Beach,25.8,Yes,102191
+3,2,9,Calangute Beach,13.5,No,289480
+3,2,10,Calangute Beach,29.2,Yes,280068
+3,2,11,Calangute Beach,16.5,Yes,46215
+3,2,12,Calangute Beach,33.3,No,273273
+3,2,1,Old Goa Churches,17.1,No,87424
+3,2,2,Old Goa Churches,28.9,Yes,140703
+3,2,3,Old Goa Churches,13.9,Yes,154225
+3,2,4,Old Goa Churches,24.6,Yes,53254
+3,2,5,Old Goa Churches,28.1,No,148552
+3,2,6,Old Goa Churches,16.3,Yes,255784
+3,2,7,Old Goa Churches,33.9,No,135414
+3,2,8,Old Goa Churches,22.4,Yes,126542
+3,2,9,Old Goa Churches,25.5,Yes,186663
+3,2,10,Old Goa Churches,15.9,Yes,76781
+3,2,11,Old Goa Churches,23.9,Yes,211728
+3,2,12,Old Goa Churches,25.6,No,51359
+3,3,1,Baga Beach,29.3,No,166541
+3,3,2,Baga Beach,10.2,Yes,120217
+3,3,3,Baga Beach,25.0,No,284496
+3,3,4,Baga Beach,20.8,No,254702
+3,3,5,Baga Beach,13.9,No,150551
+3,3,6,Baga Beach,11.7,Yes,91419
+3,3,7,Baga Beach,22.1,No,81154
+3,3,8,Baga Beach,25.8,No,21642
+3,3,9,Baga Beach,12.8,Yes,297910
+3,3,10,Baga Beach,29.0,No,31124
+3,3,11,Baga Beach,11.7,No,113309
+3,3,12,Baga Beach,14.1,Yes,177288
+3,3,1,Calangute Beach,33.8,Yes,79187
+3,3,2,Calangute Beach,34.8,No,87273
+3,3,3,Calangute Beach,13.9,Yes,75207
+3,3,4,Calangute Beach,18.3,No,231474
+3,3,5,Calangute Beach,14.4,Yes,183588
+3,3,6,Calangute Beach,26.4,Yes,184983
+3,3,7,Calangute Beach,32.5,Yes,166402
+3,3,8,Calangute Beach,28.7,Yes,214750
+3,3,9,Calangute Beach,16.9,No,121990
+3,3,10,Calangute Beach,33.5,Yes,124472
+3,3,11,Calangute Beach,15.9,Yes,239204
+3,3,12,Calangute Beach,25.5,Yes,106861
+3,3,1,Old Goa Churches,29.5,Yes,220142
+3,3,2,Old Goa Churches,14.0,Yes,188338
+3,3,3,Old Goa Churches,24.9,No,163038
+3,3,4,Old Goa Churches,29.8,No,170914
+3,3,5,Old Goa Churches,30.5,Yes,245865
+3,3,6,Old Goa Churches,14.1,No,135884
+3,3,7,Old Goa Churches,19.3,No,265270
+3,3,8,Old Goa Churches,25.1,No,205538
+3,3,9,Old Goa Churches,20.7,Yes,66833
+3,3,10,Old Goa Churches,10.7,No,26498
+3,3,11,Old Goa Churches,31.4,Yes,199415
+3,3,12,Old Goa Churches,26.0,Yes,53102
+4,1,1,Manali,29.3,Yes,173723
+4,1,2,Manali,12.0,No,224138
+4,1,3,Manali,20.1,Yes,41314
+4,1,4,Manali,33.9,Yes,103202
+4,1,5,Manali,30.0,No,95926
+4,1,6,Manali,18.8,Yes,124113
+4,1,7,Manali,20.4,No,41780
+4,1,8,Manali,31.2,No,181519
+4,1,9,Manali,22.0,Yes,158695
+4,1,10,Manali,12.4,No,163455
+4,1,11,Manali,10.8,No,83386
+4,1,12,Manali,26.3,No,80743
+4,1,1,Shimla,14.3,No,280420
+4,1,2,Shimla,11.4,No,248584
+4,1,3,Shimla,31.9,Yes,24627
+4,1,4,Shimla,18.1,Yes,208077
+4,1,5,Shimla,12.0,Yes,185346
+4,1,6,Shimla,10.7,No,244128
+4,1,7,Shimla,30.1,Yes,78881
+4,1,8,Shimla,18.3,Yes,77844
+4,1,9,Shimla,33.6,Yes,192582
+4,1,10,Shimla,19.5,No,214742
+4,1,11,Shimla,34.4,No,104894
+4,1,12,Shimla,30.8,No,294561
+4,1,1,Dharamshala,10.3,Yes,291292
+4,1,2,Dharamshala,17.1,Yes,280578
+4,1,3,Dharamshala,34.4,No,287780
+4,1,4,Dharamshala,27.5,Yes,257579
+4,1,5,Dharamshala,26.4,Yes,72457
+4,1,6,Dharamshala,28.4,No,44502
+4,1,7,Dharamshala,23.7,Yes,35908
+4,1,8,Dharamshala,10.9,Yes,126077
+4,1,9,Dharamshala,27.7,No,155195
+4,1,10,Dharamshala,12.8,No,66413
+4,1,11,Dharamshala,16.5,No,275957
+4,1,12,Dharamshala,13.8,No,148860
+4,2,1,Manali,22.0,Yes,35162
+4,2,2,Manali,31.6,No,31030
+4,2,3,Manali,17.2,Yes,214939
+4,2,4,Manali,31.6,No,200090
+4,2,5,Manali,29.0,No,259152
+4,2,6,Manali,32.6,No,254351
+4,2,7,Manali,32.8,No,57234
+4,2,8,Manali,30.6,Yes,136244
+4,2,9,Manali,20.7,No,185744
+4,2,10,Manali,10.9,No,58673
+4,2,11,Manali,25.7,Yes,219200
+4,2,12,Manali,25.6,No,85265
+4,2,1,Shimla,10.6,Yes,64995
+4,2,2,Shimla,22.6,No,116120
+4,2,3,Shimla,28.7,No,177139
+4,2,4,Shimla,19.6,No,164215
+4,2,5,Shimla,17.1,Yes,102852
+4,2,6,Shimla,21.5,Yes,257989
+4,2,7,Shimla,29.6,Yes,201583
+4,2,8,Shimla,17.8,Yes,169528
+4,2,9,Shimla,26.2,Yes,293590
+4,2,10,Shimla,24.7,No,93145
+4,2,11,Shimla,22.4,Yes,267113
+4,2,12,Shimla,14.3,Yes,101686
+4,2,1,Dharamshala,24.6,Yes,121476
+4,2,2,Dharamshala,12.8,No,264537
+4,2,3,Dharamshala,16.6,Yes,48046
+4,2,4,Dharamshala,21.7,Yes,204137
+4,2,5,Dharamshala,23.6,Yes,231186
+4,2,6,Dharamshala,31.7,No,258842
+4,2,7,Dharamshala,28.5,No,73746
+4,2,8,Dharamshala,28.3,No,27122
+4,2,9,Dharamshala,19.0,Yes,34475
+4,2,10,Dharamshala,19.7,No,31248
+4,2,11,Dharamshala,27.5,Yes,260268
+4,2,12,Dharamshala,32.2,Yes,288421
+4,3,1,Manali,23.9,Yes,218966
+4,3,2,Manali,23.7,No,100010
+4,3,3,Manali,30.5,No,161483
+4,3,4,Manali,12.7,Yes,127563
+4,3,5,Manali,19.0,Yes,41265
+4,3,6,Manali,10.8,Yes,163188
+4,3,7,Manali,12.9,Yes,64227
+4,3,8,Manali,17.5,Yes,143701
+4,3,9,Manali,23.3,No,176419
+4,3,10,Manali,17.3,No,93227
+4,3,11,Manali,33.8,No,74811
+4,3,12,Manali,23.4,No,156845
+4,3,1,Shimla,25.0,Yes,103543
+4,3,2,Shimla,26.9,No,199656
+4,3,3,Shimla,30.3,Yes,219205
+4,3,4,Shimla,23.4,Yes,73402
+4,3,5,Shimla,24.1,No,205497
+4,3,6,Shimla,10.8,No,169159
+4,3,7,Shimla,10.4,Yes,48352
+4,3,8,Shimla,30.0,Yes,74697
+4,3,9,Shimla,17.9,Yes,170198
+4,3,10,Shimla,10.9,Yes,205933
+4,3,11,Shimla,15.4,No,55693
+4,3,12,Shimla,16.1,Yes,128900
+4,3,1,Dharamshala,33.0,Yes,272022
+4,3,2,Dharamshala,24.3,No,227495
+4,3,3,Dharamshala,29.0,Yes,106357
+4,3,4,Dharamshala,20.7,No,180328
+4,3,5,Dharamshala,33.3,Yes,155092
+4,3,6,Dharamshala,26.4,Yes,169782
+4,3,7,Dharamshala,34.2,No,170232
+4,3,8,Dharamshala,30.0,No,245982
+4,3,9,Dharamshala,28.6,No,262798
+4,3,10,Dharamshala,29.0,No,214495
+4,3,11,Dharamshala,22.1,No,72963
+4,3,12,Dharamshala,21.8,No,201039
+5,1,1,Madurai Meenakshi Temple,32.0,No,36160
+5,1,2,Madurai Meenakshi Temple,26.4,Yes,80259
+5,1,3,Madurai Meenakshi Temple,29.0,Yes,207457
+5,1,4,Madurai Meenakshi Temple,28.5,No,211035
+5,1,5,Madurai Meenakshi Temple,20.3,Yes,56451
+5,1,6,Madurai Meenakshi Temple,12.0,No,98718
+5,1,7,Madurai Meenakshi Temple,20.2,No,249459
+5,1,8,Madurai Meenakshi Temple,16.9,No,118249
+5,1,9,Madurai Meenakshi Temple,22.9,Yes,149007
+5,1,10,Madurai Meenakshi Temple,12.8,No,92083
+5,1,11,Madurai Meenakshi Temple,13.7,Yes,253597
+5,1,12,Madurai Meenakshi Temple,11.1,No,34848
+5,1,1,Ooty,29.3,No,230603
+5,1,2,Ooty,23.1,Yes,104044
+5,1,3,Ooty,19.5,No,162332
+5,1,4,Ooty,35.0,Yes,104978
+5,1,5,Ooty,26.0,No,122783
+5,1,6,Ooty,33.2,No,126564
+5,1,7,Ooty,12.8,No,198172
+5,1,8,Ooty,26.6,Yes,83826
+5,1,9,Ooty,28.9,Yes,211026
+5,1,10,Ooty,33.4,No,239126
+5,1,11,Ooty,30.1,No,203304
+5,1,12,Ooty,24.8,Yes,202033
+5,1,1,Kanyakumari,10.3,No,216283
+5,1,2,Kanyakumari,15.9,No,123114
+5,1,3,Kanyakumari,26.5,No,139522
+5,1,4,Kanyakumari,25.4,No,44397
+5,1,5,Kanyakumari,31.8,No,158408
+5,1,6,Kanyakumari,25.7,No,113551
+5,1,7,Kanyakumari,12.7,Yes,211107
+5,1,8,Kanyakumari,19.4,Yes,222654
+5,1,9,Kanyakumari,19.1,No,152207
+5,1,10,Kanyakumari,25.3,Yes,156373
+5,1,11,Kanyakumari,23.4,Yes,285522
+5,1,12,Kanyakumari,20.6,Yes,265754
+5,2,1,Madurai Meenakshi Temple,22.3,No,64989
+5,2,2,Madurai Meenakshi Temple,18.8,No,233003
+5,2,3,Madurai Meenakshi Temple,29.5,Yes,106126
+5,2,4,Madurai Meenakshi Temple,11.2,No,104821
+5,2,5,Madurai Meenakshi Temple,23.1,No,252065
+5,2,6,Madurai Meenakshi Temple,11.6,Yes,236661
+5,2,7,Madurai Meenakshi Temple,12.4,Yes,22789
+5,2,8,Madurai Meenakshi Temple,15.4,Yes,229035
+5,2,9,Madurai Meenakshi Temple,23.6,Yes,32513
+5,2,10,Madurai Meenakshi Temple,33.9,No,97365
+5,2,11,Madurai Meenakshi Temple,23.0,No,55980
+5,2,12,Madurai Meenakshi Temple,18.9,No,247776
+5,2,1,Ooty,31.5,No,128463
+5,2,2,Ooty,16.9,Yes,50598
+5,2,3,Ooty,10.9,Yes,53183
+5,2,4,Ooty,14.1,Yes,273765
+5,2,5,Ooty,20.2,No,115727
+5,2,6,Ooty,12.3,Yes,204963
+5,2,7,Ooty,21.5,No,59214
+5,2,8,Ooty,14.1,No,92579
+5,2,9,Ooty,10.2,Yes,298300
+5,2,10,Ooty,11.8,Yes,227042
+5,2,11,Ooty,12.9,Yes,127320
+5,2,12,Ooty,20.5,Yes,273168
+5,2,1,Kanyakumari,25.3,Yes,246732
+5,2,2,Kanyakumari,11.5,Yes,82265
+5,2,3,Kanyakumari,26.2,Yes,82826
+5,2,4,Kanyakumari,33.9,Yes,239209
+5,2,5,Kanyakumari,34.5,No,182307
+5,2,6,Kanyakumari,33.4,Yes,268237
+5,2,7,Kanyakumari,18.7,No,205059
+5,2,8,Kanyakumari,14.7,Yes,135525
+5,2,9,Kanyakumari,33.9,Yes,212608
+5,2,10,Kanyakumari,30.8,Yes,279973
+5,2,11,Kanyakumari,32.1,Yes,236936
+5,2,12,Kanyakumari,16.4,No,84543
+5,3,1,Madurai Meenakshi Temple,18.3,Yes,137913
+5,3,2,Madurai Meenakshi Temple,24.4,Yes,191564
+5,3,3,Madurai Meenakshi Temple,11.2,Yes,267771
+5,3,4,Madurai Meenakshi Temple,30.7,Yes,122842
+5,3,5,Madurai Meenakshi Temple,17.2,Yes,134428
+5,3,6,Madurai Meenakshi Temple,31.5,Yes,205158
+5,3,7,Madurai Meenakshi Temple,32.8,Yes,69350
+5,3,8,Madurai Meenakshi Temple,33.3,Yes,107577
+5,3,9,Madurai Meenakshi Temple,19.7,No,91337
+5,3,10,Madurai Meenakshi Temple,20.2,No,39115
+5,3,11,Madurai Meenakshi Temple,27.5,Yes,30776
+5,3,12,Madurai Meenakshi Temple,22.0,Yes,278920
+5,3,1,Ooty,18.6,No,163928
+5,3,2,Ooty,19.7,No,146805
+5,3,3,Ooty,34.9,No,93775
+5,3,4,Ooty,26.3,Yes,233221
+5,3,5,Ooty,29.9,No,188400
+5,3,6,Ooty,28.6,No,133450
+5,3,7,Ooty,34.8,No,285346
+5,3,8,Ooty,33.5,No,296797
+5,3,9,Ooty,23.3,Yes,219692
+5,3,10,Ooty,24.6,Yes,269150
+5,3,11,Ooty,25.7,No,296209
+5,3,12,Ooty,25.5,Yes,29897
+5,3,1,Kanyakumari,29.4,No,253283
+5,3,2,Kanyakumari,30.8,Yes,272277
+5,3,3,Kanyakumari,17.3,No,130854
+5,3,4,Kanyakumari,22.7,Yes,205457
+5,3,5,Kanyakumari,30.5,Yes,78308
+5,3,6,Kanyakumari,26.7,Yes,26853
+5,3,7,Kanyakumari,23.0,Yes,253735
+5,3,8,Kanyakumari,11.6,No,194361
+5,3,9,Kanyakumari,20.8,Yes,64290
+5,3,10,Kanyakumari,32.8,Yes,257499
+5,3,11,Kanyakumari,13.4,Yes,205776
+5,3,12,Kanyakumari,34.9,Yes,208571
+6,1,1,Taj Mahal – Agra,20.9,No,116620
+6,1,2,Taj Mahal – Agra,29.4,No,22293
+6,1,3,Taj Mahal – Agra,20.6,Yes,256539
+6,1,4,Taj Mahal – Agra,27.7,Yes,208949
+6,1,5,Taj Mahal – Agra,26.9,No,283996
+6,1,6,Taj Mahal – Agra,23.2,No,84530
+6,1,7,Taj Mahal – Agra,11.5,Yes,257799
+6,1,8,Taj Mahal – Agra,12.8,Yes,237450
+6,1,9,Taj Mahal – Agra,20.9,No,50449
+6,1,10,Taj Mahal – Agra,12.9,No,30127
+6,1,11,Taj Mahal – Agra,26.0,No,284047
+6,1,12,Taj Mahal – Agra,27.9,Yes,126584
+6,1,1,Varanasi Ghats,31.1,No,216211
+6,1,2,Varanasi Ghats,21.7,No,50686
+6,1,3,Varanasi Ghats,16.0,No,64970
+6,1,4,Varanasi Ghats,20.3,No,63858
+6,1,5,Varanasi Ghats,14.9,Yes,192340
+6,1,6,Varanasi Ghats,16.3,Yes,88972
+6,1,7,Varanasi Ghats,19.9,No,221179
+6,1,8,Varanasi Ghats,22.6,No,214676
+6,1,9,Varanasi Ghats,32.1,Yes,143335
+6,1,10,Varanasi Ghats,29.6,No,123473
+6,1,11,Varanasi Ghats,12.6,Yes,190833
+6,1,12,Varanasi Ghats,14.8,Yes,45502
+6,1,1,Lucknow Bara Imambara,12.3,No,175548
+6,1,2,Lucknow Bara Imambara,29.6,Yes,185452
+6,1,3,Lucknow Bara Imambara,15.1,No,227108
+6,1,4,Lucknow Bara Imambara,17.1,No,287469
+6,1,5,Lucknow Bara Imambara,15.6,No,90123
+6,1,6,Lucknow Bara Imambara,25.5,No,39369
+6,1,7,Lucknow Bara Imambara,24.3,Yes,59888
+6,1,8,Lucknow Bara Imambara,24.3,Yes,28468
+6,1,9,Lucknow Bara Imambara,12.5,No,214467
+6,1,10,Lucknow Bara Imambara,21.0,No,273391
+6,1,11,Lucknow Bara Imambara,19.1,Yes,276412
+6,1,12,Lucknow Bara Imambara,32.9,No,91394
+6,2,1,Taj Mahal – Agra,29.2,Yes,87484
+6,2,2,Taj Mahal – Agra,33.0,Yes,92036
+6,2,3,Taj Mahal – Agra,23.2,No,295834
+6,2,4,Taj Mahal – Agra,23.8,No,158644
+6,2,5,Taj Mahal – Agra,24.8,Yes,278520
+6,2,6,Taj Mahal – Agra,32.6,Yes,126898
+6,2,7,Taj Mahal – Agra,34.6,No,128151
+6,2,8,Taj Mahal – Agra,19.9,No,72850
+6,2,9,Taj Mahal – Agra,28.5,Yes,22939
+6,2,10,Taj Mahal – Agra,32.9,Yes,298658
+6,2,11,Taj Mahal – Agra,34.3,No,146439
+6,2,12,Taj Mahal – Agra,34.8,Yes,154234
+6,2,1,Varanasi Ghats,17.0,Yes,220550
+6,2,2,Varanasi Ghats,29.1,Yes,248709
+6,2,3,Varanasi Ghats,17.4,Yes,156881
+6,2,4,Varanasi Ghats,23.0,Yes,127510
+6,2,5,Varanasi Ghats,25.6,Yes,108462
+6,2,6,Varanasi Ghats,27.8,No,261168
+6,2,7,Varanasi Ghats,19.1,No,222330
+6,2,8,Varanasi Ghats,18.8,No,63939
+6,2,9,Varanasi Ghats,10.8,Yes,287265
+6,2,10,Varanasi Ghats,17.6,No,29122
+6,2,11,Varanasi Ghats,12.4,Yes,95323
+6,2,12,Varanasi Ghats,13.6,Yes,158684
+6,2,1,Lucknow Bara Imambara,31.0,Yes,26322
+6,2,2,Lucknow Bara Imambara,13.3,Yes,276164
+6,2,3,Lucknow Bara Imambara,31.1,No,149290
+6,2,4,Lucknow Bara Imambara,18.4,No,235973
+6,2,5,Lucknow Bara Imambara,27.8,No,258063
+6,2,6,Lucknow Bara Imambara,25.6,Yes,130150
+6,2,7,Lucknow Bara Imambara,12.6,No,240019
+6,2,8,Lucknow Bara Imambara,26.6,No,80319
+6,2,9,Lucknow Bara Imambara,11.6,No,113546
+6,2,10,Lucknow Bara Imambara,13.6,Yes,143481
+6,2,11,Lucknow Bara Imambara,15.7,No,46683
+6,2,12,Lucknow Bara Imambara,10.7,No,289040
+6,3,1,Taj Mahal – Agra,12.8,No,96695
+6,3,2,Taj Mahal – Agra,19.9,No,122851
+6,3,3,Taj Mahal – Agra,26.2,Yes,236176
+6,3,4,Taj Mahal – Agra,31.1,No,62150
+6,3,5,Taj Mahal – Agra,30.3,Yes,154401
+6,3,6,Taj Mahal – Agra,10.1,Yes,68564
+6,3,7,Taj Mahal – Agra,22.9,No,158658
+6,3,8,Taj Mahal – Agra,30.4,Yes,277583
+6,3,9,Taj Mahal – Agra,31.6,No,217519
+6,3,10,Taj Mahal – Agra,31.0,No,112406
+6,3,11,Taj Mahal – Agra,15.6,Yes,288635
+6,3,12,Taj Mahal – Agra,20.8,No,220218
+6,3,1,Varanasi Ghats,26.9,Yes,103200
+6,3,2,Varanasi Ghats,30.9,No,113124
+6,3,3,Varanasi Ghats,25.3,No,53738
+6,3,4,Varanasi Ghats,10.8,No,296005
+6,3,5,Varanasi Ghats,30.1,Yes,211964
+6,3,6,Varanasi Ghats,27.2,No,289963
+6,3,7,Varanasi Ghats,13.9,No,271458
+6,3,8,Varanasi Ghats,25.3,Yes,48365
+6,3,9,Varanasi Ghats,18.6,No,92290
+6,3,10,Varanasi Ghats,28.8,Yes,143422
+6,3,11,Varanasi Ghats,13.1,Yes,259605
+6,3,12,Varanasi Ghats,28.1,No,165667
+6,3,1,Lucknow Bara Imambara,11.0,Yes,163534
+6,3,2,Lucknow Bara Imambara,31.4,No,63135
+6,3,3,Lucknow Bara Imambara,18.1,No,107236
+6,3,4,Lucknow Bara Imambara,31.5,No,72883
+6,3,5,Lucknow Bara Imambara,33.1,Yes,50563
+6,3,6,Lucknow Bara Imambara,15.8,No,160647
+6,3,7,Lucknow Bara Imambara,33.9,Yes,289638
+6,3,8,Lucknow Bara Imambara,22.0,Yes,287883
+6,3,9,Lucknow Bara Imambara,31.4,Yes,226249
+6,3,10,Lucknow Bara Imambara,14.0,No,158541
+6,3,11,Lucknow Bara Imambara,29.9,No,159162
+6,3,12,Lucknow Bara Imambara,27.5,Yes,213869
+7,1,1,Gateway of India – Mumbai,24.0,No,172750
+7,1,2,Gateway of India – Mumbai,24.4,No,240245
+7,1,3,Gateway of India – Mumbai,26.0,No,260924
+7,1,4,Gateway of India – Mumbai,24.7,No,143644
+7,1,5,Gateway of India – Mumbai,33.4,Yes,27166
+7,1,6,Gateway of India – Mumbai,14.5,Yes,179231
+7,1,7,Gateway of India – Mumbai,34.8,Yes,119014
+7,1,8,Gateway of India – Mumbai,11.3,Yes,125626
+7,1,9,Gateway of India – Mumbai,17.6,No,282200
+7,1,10,Gateway of India – Mumbai,10.7,Yes,294476
+7,1,11,Gateway of India – Mumbai,17.1,Yes,171140
+7,1,12,Gateway of India – Mumbai,21.8,Yes,83032
+7,1,1,Ajanta Caves,12.9,Yes,20072
+7,1,2,Ajanta Caves,32.7,No,66726
+7,1,3,Ajanta Caves,30.9,No,250380
+7,1,4,Ajanta Caves,19.3,No,259820
+7,1,5,Ajanta Caves,21.5,No,261542
+7,1,6,Ajanta Caves,34.1,Yes,22849
+7,1,7,Ajanta Caves,23.4,No,81385
+7,1,8,Ajanta Caves,31.5,Yes,185931
+7,1,9,Ajanta Caves,11.1,Yes,93257
+7,1,10,Ajanta Caves,18.0,Yes,25567
+7,1,11,Ajanta Caves,26.9,No,64851
+7,1,12,Ajanta Caves,34.3,Yes,96911
+7,1,1,Ellora Caves,33.4,Yes,97558
+7,1,2,Ellora Caves,12.0,No,160959
+7,1,3,Ellora Caves,25.2,Yes,267690
+7,1,4,Ellora Caves,15.5,Yes,293459
+7,1,5,Ellora Caves,32.9,No,277412
+7,1,6,Ellora Caves,20.7,Yes,128216
+7,1,7,Ellora Caves,16.1,No,193118
+7,1,8,Ellora Caves,30.3,No,274338
+7,1,9,Ellora Caves,20.9,Yes,279471
+7,1,10,Ellora Caves,26.0,No,229191
+7,1,11,Ellora Caves,18.5,No,81779
+7,1,12,Ellora Caves,30.6,No,128208
+7,2,1,Gateway of India – Mumbai,22.7,No,271811
+7,2,2,Gateway of India – Mumbai,24.3,No,188688
+7,2,3,Gateway of India – Mumbai,19.8,Yes,231422
+7,2,4,Gateway of India – Mumbai,23.1,No,273896
+7,2,5,Gateway of India – Mumbai,26.7,No,21855
+7,2,6,Gateway of India – Mumbai,27.7,No,288122
+7,2,7,Gateway of India – Mumbai,15.3,Yes,292750
+7,2,8,Gateway of India – Mumbai,10.2,Yes,151655
+7,2,9,Gateway of India – Mumbai,19.6,Yes,171857
+7,2,10,Gateway of India – Mumbai,33.1,Yes,126262
+7,2,11,Gateway of India – Mumbai,13.7,Yes,296504
+7,2,12,Gateway of India – Mumbai,21.3,No,28392
+7,2,1,Ajanta Caves,26.2,No,258235
+7,2,2,Ajanta Caves,11.7,Yes,163356
+7,2,3,Ajanta Caves,20.1,No,91567
+7,2,4,Ajanta Caves,31.1,No,174368
+7,2,5,Ajanta Caves,18.7,No,155988
+7,2,6,Ajanta Caves,18.0,No,124748
+7,2,7,Ajanta Caves,19.6,No,67164
+7,2,8,Ajanta Caves,30.8,Yes,118669
+7,2,9,Ajanta Caves,25.2,No,101831
+7,2,10,Ajanta Caves,10.3,No,31454
+7,2,11,Ajanta Caves,30.5,Yes,135728
+7,2,12,Ajanta Caves,15.9,Yes,188310
+7,2,1,Ellora Caves,24.9,Yes,122907
+7,2,2,Ellora Caves,30.2,Yes,111118
+7,2,3,Ellora Caves,34.1,No,73847
+7,2,4,Ellora Caves,27.7,No,52452
+7,2,5,Ellora Caves,22.1,Yes,37513
+7,2,6,Ellora Caves,34.5,No,101994
+7,2,7,Ellora Caves,23.7,Yes,48988
+7,2,8,Ellora Caves,24.2,No,204516
+7,2,9,Ellora Caves,18.3,Yes,203314
+7,2,10,Ellora Caves,22.9,Yes,237029
+7,2,11,Ellora Caves,29.1,Yes,69477
+7,2,12,Ellora Caves,31.3,Yes,152958
+7,3,1,Gateway of India – Mumbai,14.3,Yes,284075
+7,3,2,Gateway of India – Mumbai,26.4,No,160497
+7,3,3,Gateway of India – Mumbai,26.5,Yes,36670
+7,3,4,Gateway of India – Mumbai,11.4,Yes,70935
+7,3,5,Gateway of India – Mumbai,33.2,No,65388
+7,3,6,Gateway of India – Mumbai,29.4,Yes,71448
+7,3,7,Gateway of India – Mumbai,31.4,No,75264
+7,3,8,Gateway of India – Mumbai,20.3,No,258894
+7,3,9,Gateway of India – Mumbai,13.2,Yes,61368
+7,3,10,Gateway of India – Mumbai,22.5,Yes,51186
+7,3,11,Gateway of India – Mumbai,19.0,No,47115
+7,3,12,Gateway of India – Mumbai,15.0,Yes,194820
+7,3,1,Ajanta Caves,30.2,No,164197
+7,3,2,Ajanta Caves,16.2,No,133626
+7,3,3,Ajanta Caves,18.1,No,191939
+7,3,4,Ajanta Caves,28.4,Yes,239771
+7,3,5,Ajanta Caves,31.6,Yes,277269
+7,3,6,Ajanta Caves,27.0,No,39548
+7,3,7,Ajanta Caves,12.3,No,241456
+7,3,8,Ajanta Caves,14.0,Yes,132309
+7,3,9,Ajanta Caves,20.2,No,188926
+7,3,10,Ajanta Caves,10.0,Yes,41742
+7,3,11,Ajanta Caves,32.0,Yes,264292
+7,3,12,Ajanta Caves,19.5,Yes,107969
+7,3,1,Ellora Caves,11.8,No,77995
+7,3,2,Ellora Caves,13.0,No,280545
+7,3,3,Ellora Caves,30.2,No,252542
+7,3,4,Ellora Caves,19.9,Yes,85668
+7,3,5,Ellora Caves,19.7,Yes,59004
+7,3,6,Ellora Caves,10.6,Yes,147818
+7,3,7,Ellora Caves,15.5,No,217384
+7,3,8,Ellora Caves,22.4,No,122990
+7,3,9,Ellora Caves,31.6,Yes,22840
+7,3,10,Ellora Caves,28.4,No,204747
+7,3,11,Ellora Caves,19.2,Yes,246530
+7,3,12,Ellora Caves,15.2,Yes,206529
+8,1,1,Kolkata Victoria Memorial,18.3,Yes,275592
+8,1,2,Kolkata Victoria Memorial,20.9,Yes,138590
+8,1,3,Kolkata Victoria Memorial,27.0,Yes,289270
+8,1,4,Kolkata Victoria Memorial,27.6,Yes,180868
+8,1,5,Kolkata Victoria Memorial,11.3,No,117757
+8,1,6,Kolkata Victoria Memorial,28.8,No,139786
+8,1,7,Kolkata Victoria Memorial,26.1,No,222686
+8,1,8,Kolkata Victoria Memorial,31.6,No,169115
+8,1,9,Kolkata Victoria Memorial,19.2,No,278778
+8,1,10,Kolkata Victoria Memorial,29.1,Yes,284351
+8,1,11,Kolkata Victoria Memorial,17.2,Yes,263553
+8,1,12,Kolkata Victoria Memorial,28.2,No,21987
+8,1,1,Darjeeling,23.7,No,251068
+8,1,2,Darjeeling,10.7,Yes,211975
+8,1,3,Darjeeling,25.9,No,291520
+8,1,4,Darjeeling,15.6,Yes,74420
+8,1,5,Darjeeling,15.9,No,292447
+8,1,6,Darjeeling,13.4,Yes,270510
+8,1,7,Darjeeling,22.4,Yes,140002
+8,1,8,Darjeeling,27.4,No,221505
+8,1,9,Darjeeling,17.7,Yes,24175
+8,1,10,Darjeeling,26.8,No,199517
+8,1,11,Darjeeling,12.5,No,231673
+8,1,12,Darjeeling,29.4,Yes,259989
+8,1,1,Sundarbans,33.0,No,187443
+8,1,2,Sundarbans,26.1,Yes,64879
+8,1,3,Sundarbans,14.5,Yes,172980
+8,1,4,Sundarbans,24.9,Yes,281761
+8,1,5,Sundarbans,19.1,No,219816
+8,1,6,Sundarbans,17.5,Yes,298953
+8,1,7,Sundarbans,16.6,Yes,210528
+8,1,8,Sundarbans,11.8,No,128298
+8,1,9,Sundarbans,32.5,No,110643
+8,1,10,Sundarbans,23.5,Yes,33507
+8,1,11,Sundarbans,16.0,Yes,217651
+8,1,12,Sundarbans,28.8,No,263156
+8,2,1,Kolkata Victoria Memorial,32.5,No,95256
+8,2,2,Kolkata Victoria Memorial,33.4,Yes,285459
+8,2,3,Kolkata Victoria Memorial,31.8,Yes,290094
+8,2,4,Kolkata Victoria Memorial,33.4,No,68621
+8,2,5,Kolkata Victoria Memorial,20.1,No,148106
+8,2,6,Kolkata Victoria Memorial,10.1,Yes,150059
+8,2,7,Kolkata Victoria Memorial,20.9,Yes,154576
+8,2,8,Kolkata Victoria Memorial,16.5,No,182392
+8,2,9,Kolkata Victoria Memorial,27.2,Yes,218027
+8,2,10,Kolkata Victoria Memorial,31.7,Yes,263137
+8,2,11,Kolkata Victoria Memorial,19.0,No,198976
+8,2,12,Kolkata Victoria Memorial,17.2,No,33540
+8,2,1,Darjeeling,31.1,Yes,104572
+8,2,2,Darjeeling,15.4,Yes,94447
+8,2,3,Darjeeling,26.1,No,65496
+8,2,4,Darjeeling,23.3,No,23750
+8,2,5,Darjeeling,19.0,Yes,214049
+8,2,6,Darjeeling,33.9,No,295576
+8,2,7,Darjeeling,30.9,Yes,218752
+8,2,8,Darjeeling,32.9,Yes,269186
+8,2,9,Darjeeling,31.4,Yes,252634
+8,2,10,Darjeeling,11.3,Yes,255365
+8,2,11,Darjeeling,14.1,No,276740
+8,2,12,Darjeeling,17.9,No,238839
+8,2,1,Sundarbans,29.4,Yes,124325
+8,2,2,Sundarbans,16.0,Yes,199740
+8,2,3,Sundarbans,11.9,Yes,249884
+8,2,4,Sundarbans,18.7,Yes,183129
+8,2,5,Sundarbans,12.7,Yes,246614
+8,2,6,Sundarbans,27.9,No,164695
+8,2,7,Sundarbans,34.1,No,285009
+8,2,8,Sundarbans,31.6,Yes,299248
+8,2,9,Sundarbans,25.1,Yes,210165
+8,2,10,Sundarbans,28.0,Yes,229411
+8,2,11,Sundarbans,21.7,No,266512
+8,2,12,Sundarbans,31.5,No,204162
+8,3,1,Kolkata Victoria Memorial,18.4,No,237065
+8,3,2,Kolkata Victoria Memorial,27.6,Yes,69235
+8,3,3,Kolkata Victoria Memorial,28.2,Yes,158121
+8,3,4,Kolkata Victoria Memorial,32.2,No,276844
+8,3,5,Kolkata Victoria Memorial,23.8,Yes,31154
+8,3,6,Kolkata Victoria Memorial,30.0,Yes,52062
+8,3,7,Kolkata Victoria Memorial,24.5,Yes,272046
+8,3,8,Kolkata Victoria Memorial,24.5,Yes,162356
+8,3,9,Kolkata Victoria Memorial,34.7,Yes,64454
+8,3,10,Kolkata Victoria Memorial,18.3,Yes,139930
+8,3,11,Kolkata Victoria Memorial,25.0,No,179617
+8,3,12,Kolkata Victoria Memorial,29.8,Yes,52280
+8,3,1,Darjeeling,10.9,Yes,71758
+8,3,2,Darjeeling,28.2,No,252595
+8,3,3,Darjeeling,12.1,No,256743
+8,3,4,Darjeeling,31.3,No,49245
+8,3,5,Darjeeling,19.3,Yes,242930
+8,3,6,Darjeeling,10.3,No,223023
+8,3,7,Darjeeling,21.4,Yes,188212
+8,3,8,Darjeeling,15.1,No,96666
+8,3,9,Darjeeling,22.8,Yes,186131
+8,3,10,Darjeeling,24.2,Yes,183883
+8,3,11,Darjeeling,11.2,No,128585
+8,3,12,Darjeeling,32.7,No,60845
+8,3,1,Sundarbans,12.7,Yes,257987
+8,3,2,Sundarbans,25.7,Yes,269340
+8,3,3,Sundarbans,35.0,Yes,271282
+8,3,4,Sundarbans,24.6,No,276364
+8,3,5,Sundarbans,12.8,Yes,54081
+8,3,6,Sundarbans,15.6,Yes,32102
+8,3,7,Sundarbans,22.4,Yes,257286
+8,3,8,Sundarbans,32.2,No,40306
+8,3,9,Sundarbans,29.1,Yes,205989
+8,3,10,Sundarbans,18.9,No,188972
+8,3,11,Sundarbans,30.8,Yes,287286
+8,3,12,Sundarbans,17.4,Yes,46280
+9,1,1,Kaziranga National Park,34.6,No,161678
+9,1,2,Kaziranga National Park,25.1,No,204664
+9,1,3,Kaziranga National Park,28.3,Yes,118230
+9,1,4,Kaziranga National Park,26.1,No,214629
+9,1,5,Kaziranga National Park,10.7,No,214782
+9,1,6,Kaziranga National Park,33.6,Yes,35624
+9,1,7,Kaziranga National Park,25.1,No,107857
+9,1,8,Kaziranga National Park,33.7,Yes,31025
+9,1,9,Kaziranga National Park,30.2,Yes,184676
+9,1,10,Kaziranga National Park,28.7,Yes,120392
+9,1,11,Kaziranga National Park,24.7,No,194582
+9,1,12,Kaziranga National Park,13.5,Yes,126175
+9,1,1,Majuli Island,16.4,Yes,283929
+9,1,2,Majuli Island,13.8,No,226057
+9,1,3,Majuli Island,10.9,Yes,128634
+9,1,4,Majuli Island,24.3,No,205685
+9,1,5,Majuli Island,17.9,Yes,84367
+9,1,6,Majuli Island,15.2,Yes,136303
+9,1,7,Majuli Island,28.8,Yes,70859
+9,1,8,Majuli Island,31.3,Yes,230452
+9,1,9,Majuli Island,12.2,No,222160
+9,1,10,Majuli Island,25.9,Yes,172104
+9,1,11,Majuli Island,23.3,No,242410
+9,1,12,Majuli Island,13.4,No,134070
+9,1,1,Guwahati Kamakhya Temple,32.5,No,190471
+9,1,2,Guwahati Kamakhya Temple,13.4,Yes,240477
+9,1,3,Guwahati Kamakhya Temple,32.2,Yes,167526
+9,1,4,Guwahati Kamakhya Temple,34.9,Yes,23555
+9,1,5,Guwahati Kamakhya Temple,33.4,Yes,229462
+9,1,6,Guwahati Kamakhya Temple,28.0,Yes,75233
+9,1,7,Guwahati Kamakhya Temple,31.0,No,216643
+9,1,8,Guwahati Kamakhya Temple,17.3,Yes,163186
+9,1,9,Guwahati Kamakhya Temple,23.6,Yes,46178
+9,1,10,Guwahati Kamakhya Temple,32.3,No,113028
+9,1,11,Guwahati Kamakhya Temple,24.6,Yes,253607
+9,1,12,Guwahati Kamakhya Temple,28.0,No,138578
+9,2,1,Kaziranga National Park,14.2,No,266150
+9,2,2,Kaziranga National Park,14.0,Yes,221983
+9,2,3,Kaziranga National Park,19.0,No,135986
+9,2,4,Kaziranga National Park,13.4,No,46982
+9,2,5,Kaziranga National Park,23.5,Yes,241844
+9,2,6,Kaziranga National Park,18.0,Yes,188106
+9,2,7,Kaziranga National Park,17.5,Yes,31497
+9,2,8,Kaziranga National Park,22.6,Yes,205928
+9,2,9,Kaziranga National Park,29.5,Yes,71752
+9,2,10,Kaziranga National Park,19.2,No,242416
+9,2,11,Kaziranga National Park,25.1,Yes,292101
+9,2,12,Kaziranga National Park,14.2,No,247191
+9,2,1,Majuli Island,31.8,No,233822
+9,2,2,Majuli Island,21.9,No,66569
+9,2,3,Majuli Island,30.2,Yes,186065
+9,2,4,Majuli Island,28.0,Yes,174267
+9,2,5,Majuli Island,30.3,Yes,231009
+9,2,6,Majuli Island,31.1,No,181726
+9,2,7,Majuli Island,12.9,No,178038
+9,2,8,Majuli Island,16.8,Yes,142226
+9,2,9,Majuli Island,23.0,No,80942
+9,2,10,Majuli Island,28.0,No,289768
+9,2,11,Majuli Island,24.2,No,201926
+9,2,12,Majuli Island,28.7,Yes,190866
+9,2,1,Guwahati Kamakhya Temple,26.6,No,49802
+9,2,2,Guwahati Kamakhya Temple,23.7,No,86892
+9,2,3,Guwahati Kamakhya Temple,25.0,No,59845
+9,2,4,Guwahati Kamakhya Temple,29.5,Yes,110355
+9,2,5,Guwahati Kamakhya Temple,32.9,No,57643
+9,2,6,Guwahati Kamakhya Temple,24.8,Yes,85252
+9,2,7,Guwahati Kamakhya Temple,21.2,Yes,184479
+9,2,8,Guwahati Kamakhya Temple,22.5,Yes,64982
+9,2,9,Guwahati Kamakhya Temple,23.1,Yes,252787
+9,2,10,Guwahati Kamakhya Temple,14.3,No,264146
+9,2,11,Guwahati Kamakhya Temple,10.4,Yes,181047
+9,2,12,Guwahati Kamakhya Temple,21.3,No,62205
+9,3,1,Kaziranga National Park,16.8,No,255609
+9,3,2,Kaziranga National Park,25.8,No,297319
+9,3,3,Kaziranga National Park,17.7,No,284640
+9,3,4,Kaziranga National Park,31.5,Yes,180017
+9,3,5,Kaziranga National Park,14.1,No,238388
+9,3,6,Kaziranga National Park,22.1,Yes,102197
+9,3,7,Kaziranga National Park,24.8,Yes,216825
+9,3,8,Kaziranga National Park,31.7,Yes,131860
+9,3,9,Kaziranga National Park,24.6,No,112115
+9,3,10,Kaziranga National Park,21.7,No,222371
+9,3,11,Kaziranga National Park,19.9,No,83272
+9,3,12,Kaziranga National Park,33.0,No,211988
+9,3,1,Majuli Island,19.3,No,164729
+9,3,2,Majuli Island,16.8,Yes,259754
+9,3,3,Majuli Island,34.6,No,79790
+9,3,4,Majuli Island,30.3,Yes,66653
+9,3,5,Majuli Island,10.5,No,182990
+9,3,6,Majuli Island,14.8,No,214838
+9,3,7,Majuli Island,34.9,No,88782
+9,3,8,Majuli Island,31.7,No,231162
+9,3,9,Majuli Island,18.4,Yes,26214
+9,3,10,Majuli Island,22.3,Yes,78675
+9,3,11,Majuli Island,26.7,No,38204
+9,3,12,Majuli Island,16.7,Yes,200604
+9,3,1,Guwahati Kamakhya Temple,28.8,No,160281
+9,3,2,Guwahati Kamakhya Temple,26.9,No,238544
+9,3,3,Guwahati Kamakhya Temple,15.5,Yes,64947
+9,3,4,Guwahati Kamakhya Temple,16.6,Yes,200613
+9,3,5,Guwahati Kamakhya Temple,28.0,No,211075
+9,3,6,Guwahati Kamakhya Temple,29.2,Yes,106638
+9,3,7,Guwahati Kamakhya Temple,12.4,Yes,205942
+9,3,8,Guwahati Kamakhya Temple,11.6,Yes,165517
+9,3,9,Guwahati Kamakhya Temple,16.3,Yes,224636
+9,3,10,Guwahati Kamakhya Temple,15.2,No,293727
+9,3,11,Guwahati Kamakhya Temple,15.4,No,221840
+9,3,12,Guwahati Kamakhya Temple,25.8,No,25765
+10,1,1,Mysore Palace,11.2,No,281283
+10,1,2,Mysore Palace,27.2,No,100427
+10,1,3,Mysore Palace,18.5,No,24862
+10,1,4,Mysore Palace,18.8,No,176596
+10,1,5,Mysore Palace,15.6,No,175060
+10,1,6,Mysore Palace,21.1,No,286555
+10,1,7,Mysore Palace,15.4,No,22584
+10,1,8,Mysore Palace,26.7,Yes,46501
+10,1,9,Mysore Palace,33.5,No,149847
+10,1,10,Mysore Palace,13.8,Yes,197248
+10,1,11,Mysore Palace,30.8,No,207439
+10,1,12,Mysore Palace,15.2,No,66563
+10,1,1,Coorg,15.2,Yes,220837
+10,1,2,Coorg,23.1,No,139296
+10,1,3,Coorg,26.9,Yes,192013
+10,1,4,Coorg,10.2,No,53084
+10,1,5,Coorg,12.1,No,27846
+10,1,6,Coorg,20.2,No,58423
+10,1,7,Coorg,16.4,No,290124
+10,1,8,Coorg,23.9,Yes,154485
+10,1,9,Coorg,18.9,No,266957
+10,1,10,Coorg,14.9,No,284583
+10,1,11,Coorg,17.1,Yes,112514
+10,1,12,Coorg,26.4,Yes,170768
+10,1,1,Hampi,17.2,Yes,232051
+10,1,2,Hampi,26.0,No,161960
+10,1,3,Hampi,16.7,No,227315
+10,1,4,Hampi,29.8,Yes,33524
+10,1,5,Hampi,28.5,No,207016
+10,1,6,Hampi,27.7,No,60314
+10,1,7,Hampi,32.6,Yes,154164
+10,1,8,Hampi,32.5,Yes,122512
+10,1,9,Hampi,19.3,Yes,171469
+10,1,10,Hampi,25.2,No,185444
+10,1,11,Hampi,17.3,No,199862
+10,1,12,Hampi,21.4,No,155407
+10,2,1,Mysore Palace,20.1,No,237018
+10,2,2,Mysore Palace,19.6,No,244634
+10,2,3,Mysore Palace,30.2,No,127468
+10,2,4,Mysore Palace,29.1,No,201061
+10,2,5,Mysore Palace,34.1,No,253131
+10,2,6,Mysore Palace,21.4,Yes,127307
+10,2,7,Mysore Palace,25.8,Yes,60832
+10,2,8,Mysore Palace,18.7,Yes,105148
+10,2,9,Mysore Palace,32.2,No,273116
+10,2,10,Mysore Palace,24.8,No,265686
+10,2,11,Mysore Palace,29.4,No,94440
+10,2,12,Mysore Palace,17.4,No,63711
+10,2,1,Coorg,18.8,Yes,288294
+10,2,2,Coorg,14.6,Yes,271383
+10,2,3,Coorg,16.8,No,261130
+10,2,4,Coorg,23.2,Yes,186609
+10,2,5,Coorg,23.4,No,58690
+10,2,6,Coorg,27.7,No,129385
+10,2,7,Coorg,23.4,Yes,212138
+10,2,8,Coorg,33.0,Yes,95623
+10,2,9,Coorg,24.2,No,127702
+10,2,10,Coorg,10.3,No,49332
+10,2,11,Coorg,30.0,Yes,263508
+10,2,12,Coorg,32.1,Yes,228462
+10,2,1,Hampi,32.2,Yes,89528
+10,2,2,Hampi,19.9,No,167734
+10,2,3,Hampi,16.0,Yes,69160
+10,2,4,Hampi,11.5,No,47491
+10,2,5,Hampi,26.2,No,87092
+10,2,6,Hampi,33.4,Yes,54169
+10,2,7,Hampi,33.5,Yes,150350
+10,2,8,Hampi,14.0,Yes,172960
+10,2,9,Hampi,22.3,Yes,96015
+10,2,10,Hampi,14.7,Yes,294338
+10,2,11,Hampi,16.2,No,274267
+10,2,12,Hampi,22.7,Yes,270320
+10,3,1,Mysore Palace,12.0,Yes,219849
+10,3,2,Mysore Palace,13.0,No,106953
+10,3,3,Mysore Palace,23.3,No,29791
+10,3,4,Mysore Palace,17.8,Yes,148158
+10,3,5,Mysore Palace,28.4,No,31570
+10,3,6,Mysore Palace,28.0,No,203572
+10,3,7,Mysore Palace,32.1,Yes,33387
+10,3,8,Mysore Palace,17.6,Yes,221219
+10,3,9,Mysore Palace,22.6,No,52935
+10,3,10,Mysore Palace,24.3,Yes,184644
+10,3,11,Mysore Palace,17.3,No,209262
+10,3,12,Mysore Palace,12.2,No,168452
+10,3,1,Coorg,24.0,Yes,162914
+10,3,2,Coorg,20.2,Yes,85759
+10,3,3,Coorg,28.8,No,148935
+10,3,4,Coorg,17.1,Yes,276182
+10,3,5,Coorg,20.9,Yes,96633
+10,3,6,Coorg,11.7,Yes,235430
+10,3,7,Coorg,15.7,No,260060
+10,3,8,Coorg,18.4,No,277899
+10,3,9,Coorg,34.2,Yes,108302
+10,3,10,Coorg,31.8,No,167747
+10,3,11,Coorg,21.2,No,201344
+10,3,12,Coorg,16.4,Yes,120659
+10,3,1,Hampi,27.1,No,73341
+10,3,2,Hampi,30.3,No,221138
+10,3,3,Hampi,30.4,No,108844
+10,3,4,Hampi,23.7,Yes,30947
+10,3,5,Hampi,33.7,No,252726
+10,3,6,Hampi,29.9,Yes,259958
+10,3,7,Hampi,11.3,No,239880
+10,3,8,Hampi,16.7,No,251748
+10,3,9,Hampi,32.6,No,127079
+10,3,10,Hampi,28.9,No,140645
+10,3,11,Hampi,13.5,No,127252
+10,3,12,Hampi,10.7,Yes,147123
+11,1,1,Red Fort,11.3,No,278245
+11,1,2,Red Fort,17.7,No,255943
+11,1,3,Red Fort,32.2,No,230339
+11,1,4,Red Fort,32.5,No,50609
+11,1,5,Red Fort,12.6,Yes,183132
+11,1,6,Red Fort,20.6,Yes,228827
+11,1,7,Red Fort,32.2,Yes,104015
+11,1,8,Red Fort,30.6,No,108121
+11,1,9,Red Fort,34.8,No,238612
+11,1,10,Red Fort,15.7,Yes,229566
+11,1,11,Red Fort,30.4,Yes,78278
+11,1,12,Red Fort,32.2,No,129663
+11,1,1,India Gate,21.6,No,222281
+11,1,2,India Gate,22.2,No,250556
+11,1,3,India Gate,15.3,Yes,276272
+11,1,4,India Gate,33.3,Yes,227357
+11,1,5,India Gate,27.1,No,70785
+11,1,6,India Gate,17.2,No,54684
+11,1,7,India Gate,20.9,Yes,43830
+11,1,8,India Gate,14.0,Yes,66634
+11,1,9,India Gate,18.1,No,178234
+11,1,10,India Gate,32.0,Yes,288357
+11,1,11,India Gate,13.6,Yes,169599
+11,1,12,India Gate,34.6,No,253544
+11,1,1,Qutub Minar,14.1,Yes,133978
+11,1,2,Qutub Minar,24.2,Yes,172546
+11,1,3,Qutub Minar,31.6,Yes,159375
+11,1,4,Qutub Minar,27.9,Yes,229440
+11,1,5,Qutub Minar,14.8,Yes,247970
+11,1,6,Qutub Minar,28.3,Yes,219514
+11,1,7,Qutub Minar,12.5,No,245685
+11,1,8,Qutub Minar,15.7,Yes,290210
+11,1,9,Qutub Minar,21.9,No,166626
+11,1,10,Qutub Minar,30.0,Yes,227541
+11,1,11,Qutub Minar,15.2,No,50772
+11,1,12,Qutub Minar,26.8,Yes,58707
+11,2,1,Red Fort,34.6,No,225180
+11,2,2,Red Fort,19.9,Yes,254544
+11,2,3,Red Fort,23.9,No,129437
+11,2,4,Red Fort,19.0,No,222947
+11,2,5,Red Fort,28.3,Yes,157905
+11,2,6,Red Fort,13.2,No,250281
+11,2,7,Red Fort,16.1,Yes,96856
+11,2,8,Red Fort,11.0,Yes,232937
+11,2,9,Red Fort,10.7,No,77799
+11,2,10,Red Fort,17.6,Yes,237147
+11,2,11,Red Fort,20.5,No,89311
+11,2,12,Red Fort,17.3,No,274774
+11,2,1,India Gate,12.4,No,226685
+11,2,2,India Gate,15.0,No,151087
+11,2,3,India Gate,20.9,No,266704
+11,2,4,India Gate,10.5,No,45255
+11,2,5,India Gate,33.5,Yes,119441
+11,2,6,India Gate,25.5,Yes,173143
+11,2,7,India Gate,22.3,No,202690
+11,2,8,India Gate,27.2,Yes,45135
+11,2,9,India Gate,12.4,Yes,76498
+11,2,10,India Gate,29.2,No,30633
+11,2,11,India Gate,34.6,No,160682
+11,2,12,India Gate,24.8,Yes,229034
+11,2,1,Qutub Minar,30.5,Yes,279913
+11,2,2,Qutub Minar,16.1,No,170402
+11,2,3,Qutub Minar,18.5,Yes,81364
+11,2,4,Qutub Minar,19.9,Yes,55368
+11,2,5,Qutub Minar,11.5,Yes,29611
+11,2,6,Qutub Minar,33.0,No,257180
+11,2,7,Qutub Minar,23.8,Yes,39991
+11,2,8,Qutub Minar,27.2,No,107110
+11,2,9,Qutub Minar,13.2,No,182825
+11,2,10,Qutub Minar,19.3,No,105156
+11,2,11,Qutub Minar,22.7,Yes,294332
+11,2,12,Qutub Minar,32.0,Yes,199852
+11,3,1,Red Fort,21.6,Yes,260433
+11,3,2,Red Fort,29.2,No,68851
+11,3,3,Red Fort,26.5,Yes,176065
+11,3,4,Red Fort,29.3,Yes,213343
+11,3,5,Red Fort,25.2,No,195887
+11,3,6,Red Fort,10.5,No,190385
+11,3,7,Red Fort,15.6,No,252049
+11,3,8,Red Fort,28.5,No,181682
+11,3,9,Red Fort,16.8,Yes,232373
+11,3,10,Red Fort,22.4,Yes,185154
+11,3,11,Red Fort,14.7,Yes,56844
+11,3,12,Red Fort,18.7,Yes,273378
+11,3,1,India Gate,30.2,Yes,160139
+11,3,2,India Gate,17.7,Yes,271204
+11,3,3,India Gate,11.0,Yes,288980
+11,3,4,India Gate,31.1,No,161155
+11,3,5,India Gate,11.2,Yes,33375
+11,3,6,India Gate,15.4,No,73495
+11,3,7,India Gate,30.3,No,264123
+11,3,8,India Gate,17.0,No,165131
+11,3,9,India Gate,16.5,Yes,169867
+11,3,10,India Gate,18.2,No,110778
+11,3,11,India Gate,27.1,No,227962
+11,3,12,India Gate,34.4,No,81747
+11,3,1,Qutub Minar,32.7,No,35343
+11,3,2,Qutub Minar,23.2,No,24333
+11,3,3,Qutub Minar,33.2,No,136433
+11,3,4,Qutub Minar,21.8,No,273674
+11,3,5,Qutub Minar,27.5,Yes,231823
+11,3,6,Qutub Minar,19.5,Yes,219494
+11,3,7,Qutub Minar,31.1,No,39562
+11,3,8,Qutub Minar,27.6,No,20219
+11,3,9,Qutub Minar,18.2,No,104889
+11,3,10,Qutub Minar,25.1,Yes,132649
+11,3,11,Qutub Minar,20.0,No,131716
+11,3,12,Qutub Minar,11.0,No,27405
+12,1,1,Gir National Park,29.2,Yes,134207
+12,1,2,Gir National Park,21.9,No,236021
+12,1,3,Gir National Park,23.9,Yes,118271
+12,1,4,Gir National Park,22.5,No,273785
+12,1,5,Gir National Park,28.1,No,254026
+12,1,6,Gir National Park,25.7,No,138912
+12,1,7,Gir National Park,25.4,Yes,275992
+12,1,8,Gir National Park,11.7,Yes,48806
+12,1,9,Gir National Park,17.2,No,224545
+12,1,10,Gir National Park,25.0,Yes,288366
+12,1,11,Gir National Park,12.4,Yes,271409
+12,1,12,Gir National Park,21.1,Yes,118462
+12,1,1,Somnath Temple,31.0,Yes,125103
+12,1,2,Somnath Temple,30.7,Yes,123123
+12,1,3,Somnath Temple,33.9,Yes,82778
+12,1,4,Somnath Temple,28.2,No,84753
+12,1,5,Somnath Temple,29.2,Yes,87509
+12,1,6,Somnath Temple,34.3,Yes,23394
+12,1,7,Somnath Temple,17.7,Yes,265406
+12,1,8,Somnath Temple,21.9,Yes,32511
+12,1,9,Somnath Temple,16.6,Yes,266437
+12,1,10,Somnath Temple,12.5,No,257089
+12,1,11,Somnath Temple,29.0,Yes,39282
+12,1,12,Somnath Temple,28.5,Yes,272598
+12,1,1,Rann of Kutch,29.0,No,39167
+12,1,2,Rann of Kutch,18.2,No,70511
+12,1,3,Rann of Kutch,33.2,Yes,83569
+12,1,4,Rann of Kutch,16.0,Yes,129380
+12,1,5,Rann of Kutch,12.7,No,250241
+12,1,6,Rann of Kutch,14.5,Yes,268648
+12,1,7,Rann of Kutch,18.3,Yes,83695
+12,1,8,Rann of Kutch,10.6,Yes,262126
+12,1,9,Rann of Kutch,33.1,Yes,103702
+12,1,10,Rann of Kutch,25.8,Yes,36955
+12,1,11,Rann of Kutch,11.4,Yes,117005
+12,1,12,Rann of Kutch,19.0,No,176842
+12,2,1,Gir National Park,33.0,Yes,51758
+12,2,2,Gir National Park,28.7,No,89200
+12,2,3,Gir National Park,27.1,Yes,283097
+12,2,4,Gir National Park,25.5,Yes,266271
+12,2,5,Gir National Park,33.7,No,54820
+12,2,6,Gir National Park,25.8,Yes,212524
+12,2,7,Gir National Park,13.6,No,181780
+12,2,8,Gir National Park,24.5,No,89174
+12,2,9,Gir National Park,30.6,No,21618
+12,2,10,Gir National Park,24.1,Yes,191462
+12,2,11,Gir National Park,10.5,Yes,109217
+12,2,12,Gir National Park,26.4,Yes,145835
+12,2,1,Somnath Temple,19.7,Yes,152122
+12,2,2,Somnath Temple,17.9,No,84101
+12,2,3,Somnath Temple,26.2,No,297412
+12,2,4,Somnath Temple,26.4,No,145512
+12,2,5,Somnath Temple,10.3,No,71671
+12,2,6,Somnath Temple,25.2,No,128510
+12,2,7,Somnath Temple,11.5,No,85497
+12,2,8,Somnath Temple,23.9,No,172615
+12,2,9,Somnath Temple,22.0,No,41409
+12,2,10,Somnath Temple,24.2,Yes,279190
+12,2,11,Somnath Temple,21.7,Yes,149578
+12,2,12,Somnath Temple,25.8,No,293475
+12,2,1,Rann of Kutch,31.8,No,180285
+12,2,2,Rann of Kutch,28.3,No,30219
+12,2,3,Rann of Kutch,15.0,No,40415
+12,2,4,Rann of Kutch,27.7,Yes,223961
+12,2,5,Rann of Kutch,12.1,No,292264
+12,2,6,Rann of Kutch,30.9,No,208401
+12,2,7,Rann of Kutch,21.0,No,30917
+12,2,8,Rann of Kutch,20.7,No,145871
+12,2,9,Rann of Kutch,33.8,No,131021
+12,2,10,Rann of Kutch,24.8,Yes,47312
+12,2,11,Rann of Kutch,11.1,Yes,268303
+12,2,12,Rann of Kutch,21.1,No,150701
+12,3,1,Gir National Park,12.2,No,166161
+12,3,2,Gir National Park,34.7,Yes,209669
+12,3,3,Gir National Park,20.7,No,150526
+12,3,4,Gir National Park,33.9,No,46903
+12,3,5,Gir National Park,20.3,Yes,79373
+12,3,6,Gir National Park,24.6,Yes,122946
+12,3,7,Gir National Park,33.4,Yes,97289
+12,3,8,Gir National Park,25.8,No,237854
+12,3,9,Gir National Park,24.5,Yes,104752
+12,3,10,Gir National Park,29.1,Yes,278864
+12,3,11,Gir National Park,30.8,Yes,203713
+12,3,12,Gir National Park,14.5,No,203405
+12,3,1,Somnath Temple,17.5,No,86877
+12,3,2,Somnath Temple,30.8,No,29198
+12,3,3,Somnath Temple,23.2,No,42995
+12,3,4,Somnath Temple,17.4,Yes,65387
+12,3,5,Somnath Temple,16.9,No,35669
+12,3,6,Somnath Temple,33.9,No,127947
+12,3,7,Somnath Temple,23.9,No,23687
+12,3,8,Somnath Temple,28.1,Yes,287817
+12,3,9,Somnath Temple,25.1,No,188523
+12,3,10,Somnath Temple,30.4,Yes,284284
+12,3,11,Somnath Temple,22.9,No,267639
+12,3,12,Somnath Temple,10.7,Yes,43917
+12,3,1,Rann of Kutch,32.5,No,143518
+12,3,2,Rann of Kutch,31.6,No,116861
+12,3,3,Rann of Kutch,26.5,No,65941
+12,3,4,Rann of Kutch,26.6,Yes,286869
+12,3,5,Rann of Kutch,32.0,Yes,185636
+12,3,6,Rann of Kutch,30.9,Yes,84806
+12,3,7,Rann of Kutch,33.3,Yes,246644
+12,3,8,Rann of Kutch,17.2,No,285351
+12,3,9,Rann of Kutch,30.8,Yes,158977
+12,3,10,Rann of Kutch,17.8,Yes,27434
+12,3,11,Rann of Kutch,17.3,Yes,32302
+12,3,12,Rann of Kutch,33.5,No,49081
+13,1,1,Golden Temple,25.3,Yes,141267
+13,1,2,Golden Temple,18.0,No,110456
+13,1,3,Golden Temple,22.4,Yes,48840
+13,1,4,Golden Temple,23.3,No,66415
+13,1,5,Golden Temple,34.1,No,272331
+13,1,6,Golden Temple,19.5,No,248458
+13,1,7,Golden Temple,25.9,No,59123
+13,1,8,Golden Temple,11.8,Yes,163904
+13,1,9,Golden Temple,34.1,Yes,180105
+13,1,10,Golden Temple,17.0,Yes,21036
+13,1,11,Golden Temple,16.9,No,252835
+13,1,12,Golden Temple,28.5,No,181706
+13,1,1,Wagah Border,34.4,Yes,128302
+13,1,2,Wagah Border,32.5,No,132002
+13,1,3,Wagah Border,21.7,No,273879
+13,1,4,Wagah Border,34.1,No,51346
+13,1,5,Wagah Border,22.9,Yes,183634
+13,1,6,Wagah Border,28.4,No,206969
+13,1,7,Wagah Border,18.7,Yes,65631
+13,1,8,Wagah Border,32.4,Yes,285581
+13,1,9,Wagah Border,29.0,No,49682
+13,1,10,Wagah Border,20.8,Yes,210134
+13,1,11,Wagah Border,24.0,No,149140
+13,1,12,Wagah Border,18.9,Yes,20971
+13,1,1,Jallianwala Bagh,33.2,No,94752
+13,1,2,Jallianwala Bagh,10.7,Yes,286398
+13,1,3,Jallianwala Bagh,29.0,Yes,292296
+13,1,4,Jallianwala Bagh,33.5,No,120125
+13,1,5,Jallianwala Bagh,12.7,Yes,137831
+13,1,6,Jallianwala Bagh,22.7,No,251465
+13,1,7,Jallianwala Bagh,28.8,Yes,212363
+13,1,8,Jallianwala Bagh,15.5,No,281281
+13,1,9,Jallianwala Bagh,17.5,No,119364
+13,1,10,Jallianwala Bagh,32.5,No,149579
+13,1,11,Jallianwala Bagh,26.6,Yes,122894
+13,1,12,Jallianwala Bagh,30.4,No,85356
+13,2,1,Golden Temple,30.3,No,154259
+13,2,2,Golden Temple,34.7,Yes,203636
+13,2,3,Golden Temple,15.9,No,78994
+13,2,4,Golden Temple,18.0,No,137795
+13,2,5,Golden Temple,19.9,No,21833
+13,2,6,Golden Temple,34.2,Yes,81626
+13,2,7,Golden Temple,29.0,Yes,155011
+13,2,8,Golden Temple,23.3,No,227915
+13,2,9,Golden Temple,24.8,No,103047
+13,2,10,Golden Temple,29.8,No,175556
+13,2,11,Golden Temple,21.8,No,136651
+13,2,12,Golden Temple,18.1,No,81276
+13,2,1,Wagah Border,11.7,No,167417
+13,2,2,Wagah Border,34.4,No,49976
+13,2,3,Wagah Border,26.1,No,184422
+13,2,4,Wagah Border,26.9,Yes,291341
+13,2,5,Wagah Border,14.9,Yes,54782
+13,2,6,Wagah Border,26.4,Yes,187615
+13,2,7,Wagah Border,20.0,No,269639
+13,2,8,Wagah Border,32.8,No,31039
+13,2,9,Wagah Border,25.9,No,148676
+13,2,10,Wagah Border,33.4,No,98956
+13,2,11,Wagah Border,29.5,Yes,28921
+13,2,12,Wagah Border,13.5,Yes,141313
+13,2,1,Jallianwala Bagh,27.3,No,242548
+13,2,2,Jallianwala Bagh,22.9,No,87631
+13,2,3,Jallianwala Bagh,22.6,No,154821
+13,2,4,Jallianwala Bagh,31.9,Yes,215039
+13,2,5,Jallianwala Bagh,14.6,Yes,27296
+13,2,6,Jallianwala Bagh,17.5,No,220596
+13,2,7,Jallianwala Bagh,23.7,Yes,38983
+13,2,8,Jallianwala Bagh,31.5,Yes,38964
+13,2,9,Jallianwala Bagh,16.8,No,220820
+13,2,10,Jallianwala Bagh,19.4,Yes,54889
+13,2,11,Jallianwala Bagh,31.6,No,200631
+13,2,12,Jallianwala Bagh,27.0,Yes,270332
+13,3,1,Golden Temple,23.4,Yes,71427
+13,3,2,Golden Temple,15.5,Yes,293087
+13,3,3,Golden Temple,34.3,Yes,233532
+13,3,4,Golden Temple,25.3,No,57987
+13,3,5,Golden Temple,24.8,No,55662
+13,3,6,Golden Temple,19.2,Yes,67748
+13,3,7,Golden Temple,32.3,Yes,276488
+13,3,8,Golden Temple,32.4,Yes,64990
+13,3,9,Golden Temple,19.9,No,142448
+13,3,10,Golden Temple,30.7,No,32853
+13,3,11,Golden Temple,32.5,No,100720
+13,3,12,Golden Temple,25.5,No,270831
+13,3,1,Wagah Border,22.4,No,170722
+13,3,2,Wagah Border,14.2,Yes,273438
+13,3,3,Wagah Border,29.2,Yes,116558
+13,3,4,Wagah Border,30.9,Yes,68706
+13,3,5,Wagah Border,20.1,Yes,56617
+13,3,6,Wagah Border,24.9,No,162090
+13,3,7,Wagah Border,13.9,No,221364
+13,3,8,Wagah Border,23.6,Yes,100466
+13,3,9,Wagah Border,17.6,No,284885
+13,3,10,Wagah Border,32.7,Yes,283788
+13,3,11,Wagah Border,32.8,Yes,63364
+13,3,12,Wagah Border,13.0,Yes,261811
+13,3,1,Jallianwala Bagh,31.6,Yes,187223
+13,3,2,Jallianwala Bagh,23.2,Yes,249291
+13,3,3,Jallianwala Bagh,23.6,Yes,149835
+13,3,4,Jallianwala Bagh,15.0,No,116868
+13,3,5,Jallianwala Bagh,34.6,No,48178
+13,3,6,Jallianwala Bagh,10.1,No,219538
+13,3,7,Jallianwala Bagh,17.0,Yes,248846
+13,3,8,Jallianwala Bagh,18.2,No,223404
+13,3,9,Jallianwala Bagh,22.4,Yes,188267
+13,3,10,Jallianwala Bagh,18.5,No,249199
+13,3,11,Jallianwala Bagh,12.3,Yes,128777
+13,3,12,Jallianwala Bagh,17.4,No,224375
+14,1,1,Khajuraho Temples,13.2,Yes,165405
+14,1,2,Khajuraho Temples,16.8,No,177374
+14,1,3,Khajuraho Temples,12.3,Yes,129903
+14,1,4,Khajuraho Temples,21.1,No,248600
+14,1,5,Khajuraho Temples,16.3,Yes,240174
+14,1,6,Khajuraho Temples,19.9,No,265523
+14,1,7,Khajuraho Temples,23.3,No,203743
+14,1,8,Khajuraho Temples,11.4,Yes,281169
+14,1,9,Khajuraho Temples,24.1,Yes,245472
+14,1,10,Khajuraho Temples,21.0,Yes,172160
+14,1,11,Khajuraho Temples,33.3,No,110979
+14,1,12,Khajuraho Temples,31.9,No,116895
+14,1,1,Kanha National Park,10.8,Yes,241822
+14,1,2,Kanha National Park,22.9,Yes,118659
+14,1,3,Kanha National Park,30.0,Yes,85522
+14,1,4,Kanha National Park,14.3,No,216675
+14,1,5,Kanha National Park,15.4,No,20381
+14,1,6,Kanha National Park,35.0,Yes,224195
+14,1,7,Kanha National Park,31.3,No,89704
+14,1,8,Kanha National Park,18.0,Yes,91679
+14,1,9,Kanha National Park,14.2,No,148530
+14,1,10,Kanha National Park,18.3,No,275734
+14,1,11,Kanha National Park,34.0,Yes,166669
+14,1,12,Kanha National Park,26.2,No,165166
+14,1,1,Bhopal Lake,27.0,No,32756
+14,1,2,Bhopal Lake,18.9,No,79061
+14,1,3,Bhopal Lake,34.0,No,163381
+14,1,4,Bhopal Lake,34.1,No,23738
+14,1,5,Bhopal Lake,21.1,Yes,294418
+14,1,6,Bhopal Lake,12.9,No,187375
+14,1,7,Bhopal Lake,20.7,Yes,229797
+14,1,8,Bhopal Lake,21.9,No,265088
+14,1,9,Bhopal Lake,19.9,Yes,293871
+14,1,10,Bhopal Lake,22.1,No,155509
+14,1,11,Bhopal Lake,21.3,Yes,109450
+14,1,12,Bhopal Lake,23.8,Yes,118426
+14,2,1,Khajuraho Temples,21.3,Yes,27717
+14,2,2,Khajuraho Temples,20.7,Yes,141148
+14,2,3,Khajuraho Temples,30.1,Yes,80901
+14,2,4,Khajuraho Temples,23.7,Yes,97024
+14,2,5,Khajuraho Temples,21.3,Yes,202788
+14,2,6,Khajuraho Temples,26.3,No,209549
+14,2,7,Khajuraho Temples,22.5,No,229732
+14,2,8,Khajuraho Temples,11.3,No,96890
+14,2,9,Khajuraho Temples,19.3,Yes,209674
+14,2,10,Khajuraho Temples,18.3,Yes,241969
+14,2,11,Khajuraho Temples,31.8,No,264724
+14,2,12,Khajuraho Temples,29.9,Yes,221830
+14,2,1,Kanha National Park,19.3,Yes,65524
+14,2,2,Kanha National Park,15.4,No,49428
+14,2,3,Kanha National Park,25.3,Yes,121183
+14,2,4,Kanha National Park,16.2,No,219192
+14,2,5,Kanha National Park,26.6,Yes,221823
+14,2,6,Kanha National Park,18.5,Yes,20245
+14,2,7,Kanha National Park,19.1,No,292777
+14,2,8,Kanha National Park,22.2,Yes,79209
+14,2,9,Kanha National Park,34.7,Yes,211325
+14,2,10,Kanha National Park,16.1,Yes,38720
+14,2,11,Kanha National Park,34.7,Yes,299233
+14,2,12,Kanha National Park,10.2,No,146312
+14,2,1,Bhopal Lake,23.8,Yes,28362
+14,2,2,Bhopal Lake,21.2,No,175102
+14,2,3,Bhopal Lake,20.4,Yes,206576
+14,2,4,Bhopal Lake,10.8,Yes,99387
+14,2,5,Bhopal Lake,23.4,Yes,219376
+14,2,6,Bhopal Lake,29.6,Yes,259652
+14,2,7,Bhopal Lake,28.5,No,125569
+14,2,8,Bhopal Lake,24.6,No,147326
+14,2,9,Bhopal Lake,11.3,Yes,210158
+14,2,10,Bhopal Lake,11.0,No,55191
+14,2,11,Bhopal Lake,25.2,No,186929
+14,2,12,Bhopal Lake,31.0,Yes,92487
+14,3,1,Khajuraho Temples,20.5,Yes,180655
+14,3,2,Khajuraho Temples,19.6,Yes,144286
+14,3,3,Khajuraho Temples,19.6,Yes,163288
+14,3,4,Khajuraho Temples,21.7,Yes,246673
+14,3,5,Khajuraho Temples,30.8,No,290066
+14,3,6,Khajuraho Temples,34.5,Yes,32899
+14,3,7,Khajuraho Temples,31.9,Yes,89521
+14,3,8,Khajuraho Temples,24.3,Yes,34901
+14,3,9,Khajuraho Temples,11.4,Yes,125313
+14,3,10,Khajuraho Temples,22.1,Yes,156158
+14,3,11,Khajuraho Temples,24.4,Yes,67086
+14,3,12,Khajuraho Temples,31.9,No,112071
+14,3,1,Kanha National Park,30.4,Yes,222244
+14,3,2,Kanha National Park,20.0,No,125453
+14,3,3,Kanha National Park,13.7,No,210588
+14,3,4,Kanha National Park,14.1,No,62499
+14,3,5,Kanha National Park,26.8,Yes,136747
+14,3,6,Kanha National Park,27.4,Yes,168426
+14,3,7,Kanha National Park,27.1,No,120270
+14,3,8,Kanha National Park,28.9,Yes,105625
+14,3,9,Kanha National Park,32.5,No,41483
+14,3,10,Kanha National Park,23.5,Yes,263783
+14,3,11,Kanha National Park,26.0,Yes,147391
+14,3,12,Kanha National Park,31.5,Yes,153340
+14,3,1,Bhopal Lake,25.7,No,288832
+14,3,2,Bhopal Lake,17.0,No,280301
+14,3,3,Bhopal Lake,22.6,No,138154
+14,3,4,Bhopal Lake,33.4,No,169585
+14,3,5,Bhopal Lake,32.4,Yes,77988
+14,3,6,Bhopal Lake,27.9,No,86739
+14,3,7,Bhopal Lake,16.7,No,48911
+14,3,8,Bhopal Lake,28.8,No,109048
+14,3,9,Bhopal Lake,22.4,No,179416
+14,3,10,Bhopal Lake,29.0,Yes,214222
+14,3,11,Bhopal Lake,32.1,No,159464
+14,3,12,Bhopal Lake,27.2,Yes,80874
+15,1,1,Konark Sun Temple,33.8,No,186180
+15,1,2,Konark Sun Temple,18.8,No,76201
+15,1,3,Konark Sun Temple,13.7,Yes,77611
+15,1,4,Konark Sun Temple,25.2,No,66240
+15,1,5,Konark Sun Temple,24.4,No,76929
+15,1,6,Konark Sun Temple,10.6,No,124129
+15,1,7,Konark Sun Temple,22.0,Yes,259256
+15,1,8,Konark Sun Temple,15.9,Yes,130158
+15,1,9,Konark Sun Temple,10.8,No,177012
+15,1,10,Konark Sun Temple,24.6,Yes,274016
+15,1,11,Konark Sun Temple,17.8,No,104918
+15,1,12,Konark Sun Temple,32.4,No,298736
+15,1,1,Puri Beach,11.1,No,126461
+15,1,2,Puri Beach,13.5,Yes,22059
+15,1,3,Puri Beach,15.4,No,271161
+15,1,4,Puri Beach,15.3,No,235296
+15,1,5,Puri Beach,14.4,No,53504
+15,1,6,Puri Beach,21.9,Yes,70720
+15,1,7,Puri Beach,28.2,No,20035
+15,1,8,Puri Beach,21.0,No,271663
+15,1,9,Puri Beach,24.7,Yes,93629
+15,1,10,Puri Beach,15.4,No,115152
+15,1,11,Puri Beach,24.3,No,114639
+15,1,12,Puri Beach,27.6,Yes,267042
+15,1,1,Chilika Lake,32.4,No,235173
+15,1,2,Chilika Lake,24.2,Yes,21101
+15,1,3,Chilika Lake,33.6,Yes,183479
+15,1,4,Chilika Lake,16.1,Yes,139934
+15,1,5,Chilika Lake,15.8,No,131550
+15,1,6,Chilika Lake,20.4,No,155787
+15,1,7,Chilika Lake,16.8,Yes,292480
+15,1,8,Chilika Lake,33.9,No,296291
+15,1,9,Chilika Lake,19.7,Yes,98517
+15,1,10,Chilika Lake,12.1,Yes,24081
+15,1,11,Chilika Lake,22.9,Yes,257211
+15,1,12,Chilika Lake,16.1,No,64407
+15,2,1,Konark Sun Temple,28.7,Yes,112432
+15,2,2,Konark Sun Temple,32.8,No,276889
+15,2,3,Konark Sun Temple,31.4,Yes,116485
+15,2,4,Konark Sun Temple,20.2,Yes,188057
+15,2,5,Konark Sun Temple,26.1,Yes,290204
+15,2,6,Konark Sun Temple,18.5,No,193108
+15,2,7,Konark Sun Temple,11.5,No,43643
+15,2,8,Konark Sun Temple,30.5,Yes,292615
+15,2,9,Konark Sun Temple,24.1,Yes,287328
+15,2,10,Konark Sun Temple,27.9,No,141486
+15,2,11,Konark Sun Temple,18.1,Yes,219895
+15,2,12,Konark Sun Temple,33.9,Yes,235615
+15,2,1,Puri Beach,29.6,No,79396
+15,2,2,Puri Beach,33.0,No,110353
+15,2,3,Puri Beach,17.4,No,69589
+15,2,4,Puri Beach,12.7,No,107030
+15,2,5,Puri Beach,27.9,Yes,61587
+15,2,6,Puri Beach,23.6,Yes,215114
+15,2,7,Puri Beach,11.6,Yes,121020
+15,2,8,Puri Beach,25.6,Yes,205335
+15,2,9,Puri Beach,34.4,No,142539
+15,2,10,Puri Beach,33.8,No,161440
+15,2,11,Puri Beach,24.3,No,61380
+15,2,12,Puri Beach,34.8,No,121873
+15,2,1,Chilika Lake,34.7,No,148571
+15,2,2,Chilika Lake,12.3,No,205661
+15,2,3,Chilika Lake,19.5,Yes,28886
+15,2,4,Chilika Lake,29.9,Yes,114404
+15,2,5,Chilika Lake,17.2,No,58920
+15,2,6,Chilika Lake,17.2,No,217562
+15,2,7,Chilika Lake,26.0,Yes,57166
+15,2,8,Chilika Lake,17.3,Yes,97196
+15,2,9,Chilika Lake,15.3,No,90852
+15,2,10,Chilika Lake,23.9,No,74284
+15,2,11,Chilika Lake,21.6,Yes,208731
+15,2,12,Chilika Lake,14.6,No,180939
+15,3,1,Konark Sun Temple,30.1,Yes,202741
+15,3,2,Konark Sun Temple,22.3,No,57216
+15,3,3,Konark Sun Temple,23.1,No,64066
+15,3,4,Konark Sun Temple,19.6,No,255148
+15,3,5,Konark Sun Temple,34.7,No,278684
+15,3,6,Konark Sun Temple,27.7,Yes,38852
+15,3,7,Konark Sun Temple,27.7,Yes,229617
+15,3,8,Konark Sun Temple,23.3,No,264010
+15,3,9,Konark Sun Temple,34.7,Yes,59575
+15,3,10,Konark Sun Temple,29.1,No,286601
+15,3,11,Konark Sun Temple,28.2,No,249091
+15,3,12,Konark Sun Temple,28.9,No,209961
+15,3,1,Puri Beach,29.7,No,212583
+15,3,2,Puri Beach,30.0,No,199819
+15,3,3,Puri Beach,13.2,No,108874
+15,3,4,Puri Beach,27.3,Yes,267870
+15,3,5,Puri Beach,31.9,Yes,122009
+15,3,6,Puri Beach,11.9,Yes,196540
+15,3,7,Puri Beach,26.3,No,66452
+15,3,8,Puri Beach,21.2,Yes,108312
+15,3,9,Puri Beach,32.6,Yes,275531
+15,3,10,Puri Beach,20.0,Yes,169246
+15,3,11,Puri Beach,17.4,Yes,226354
+15,3,12,Puri Beach,29.8,No,299585
+15,3,1,Chilika Lake,28.0,Yes,189441
+15,3,2,Chilika Lake,19.7,Yes,89102
+15,3,3,Chilika Lake,10.3,No,74856
+15,3,4,Chilika Lake,27.6,Yes,86989
+15,3,5,Chilika Lake,19.7,No,218973
+15,3,6,Chilika Lake,21.1,Yes,202304
+15,3,7,Chilika Lake,18.7,Yes,170112
+15,3,8,Chilika Lake,19.9,Yes,217959
+15,3,9,Chilika Lake,18.4,No,117522
+15,3,10,Chilika Lake,23.5,Yes,53183
+15,3,11,Chilika Lake,22.5,Yes,55722
+15,3,12,Chilika Lake,14.6,No,84872
+16,1,1,Charminar,20.0,No,205430
+16,1,2,Charminar,24.2,Yes,199010
+16,1,3,Charminar,28.5,Yes,220737
+16,1,4,Charminar,24.2,Yes,299381
+16,1,5,Charminar,21.4,Yes,157005
+16,1,6,Charminar,23.8,Yes,235289
+16,1,7,Charminar,19.6,Yes,277430
+16,1,8,Charminar,27.8,No,41506
+16,1,9,Charminar,33.6,No,46666
+16,1,10,Charminar,34.0,No,214689
+16,1,11,Charminar,23.1,Yes,92627
+16,1,12,Charminar,15.8,Yes,290912
+16,1,1,Golconda Fort,17.8,Yes,26896
+16,1,2,Golconda Fort,26.5,No,62997
+16,1,3,Golconda Fort,34.6,Yes,127605
+16,1,4,Golconda Fort,23.3,Yes,204114
+16,1,5,Golconda Fort,32.9,No,158054
+16,1,6,Golconda Fort,16.1,Yes,80082
+16,1,7,Golconda Fort,25.6,No,24212
+16,1,8,Golconda Fort,32.9,No,163388
+16,1,9,Golconda Fort,31.0,No,275019
+16,1,10,Golconda Fort,19.1,Yes,186133
+16,1,11,Golconda Fort,32.8,Yes,58348
+16,1,12,Golconda Fort,24.0,No,95214
+16,1,1,Ramoji Film City,25.9,No,33974
+16,1,2,Ramoji Film City,24.8,Yes,288515
+16,1,3,Ramoji Film City,25.3,Yes,162169
+16,1,4,Ramoji Film City,24.7,No,32124
+16,1,5,Ramoji Film City,32.0,No,274868
+16,1,6,Ramoji Film City,35.0,Yes,92633
+16,1,7,Ramoji Film City,30.2,No,102055
+16,1,8,Ramoji Film City,22.7,No,130210
+16,1,9,Ramoji Film City,30.0,No,34086
+16,1,10,Ramoji Film City,22.0,No,117518
+16,1,11,Ramoji Film City,29.0,No,256194
+16,1,12,Ramoji Film City,13.3,Yes,298614
+16,2,1,Charminar,29.3,No,49998
+16,2,2,Charminar,33.5,Yes,179545
+16,2,3,Charminar,26.4,No,278348
+16,2,4,Charminar,18.5,No,41676
+16,2,5,Charminar,13.7,No,103380
+16,2,6,Charminar,30.4,No,133799
+16,2,7,Charminar,32.3,Yes,275091
+16,2,8,Charminar,22.3,No,272204
+16,2,9,Charminar,13.0,No,129422
+16,2,10,Charminar,27.9,No,85510
+16,2,11,Charminar,18.9,No,218520
+16,2,12,Charminar,24.5,No,270049
+16,2,1,Golconda Fort,13.6,Yes,34784
+16,2,2,Golconda Fort,14.5,Yes,169214
+16,2,3,Golconda Fort,10.3,Yes,170920
+16,2,4,Golconda Fort,11.8,No,183117
+16,2,5,Golconda Fort,21.5,No,195955
+16,2,6,Golconda Fort,34.8,Yes,171613
+16,2,7,Golconda Fort,34.2,Yes,50307
+16,2,8,Golconda Fort,26.2,No,61953
+16,2,9,Golconda Fort,28.2,No,292246
+16,2,10,Golconda Fort,34.9,No,250753
+16,2,11,Golconda Fort,19.3,No,24123
+16,2,12,Golconda Fort,25.8,Yes,209435
+16,2,1,Ramoji Film City,21.0,Yes,269278
+16,2,2,Ramoji Film City,12.9,Yes,151071
+16,2,3,Ramoji Film City,21.7,No,39917
+16,2,4,Ramoji Film City,11.4,Yes,99460
+16,2,5,Ramoji Film City,31.3,No,289686
+16,2,6,Ramoji Film City,14.0,No,268108
+16,2,7,Ramoji Film City,13.6,Yes,249134
+16,2,8,Ramoji Film City,20.8,No,117327
+16,2,9,Ramoji Film City,25.0,No,112402
+16,2,10,Ramoji Film City,14.3,No,212914
+16,2,11,Ramoji Film City,16.8,Yes,118016
+16,2,12,Ramoji Film City,31.7,Yes,264838
+16,3,1,Charminar,34.4,No,57320
+16,3,2,Charminar,32.1,No,81608
+16,3,3,Charminar,34.6,Yes,34475
+16,3,4,Charminar,20.4,Yes,286819
+16,3,5,Charminar,30.4,Yes,64408
+16,3,6,Charminar,21.2,Yes,154799
+16,3,7,Charminar,25.9,Yes,175672
+16,3,8,Charminar,13.2,No,177212
+16,3,9,Charminar,13.3,Yes,25427
+16,3,10,Charminar,11.5,Yes,293653
+16,3,11,Charminar,18.6,Yes,89504
+16,3,12,Charminar,20.3,No,118225
+16,3,1,Golconda Fort,24.6,Yes,141431
+16,3,2,Golconda Fort,23.7,No,110406
+16,3,3,Golconda Fort,21.6,Yes,269003
+16,3,4,Golconda Fort,16.5,No,104613
+16,3,5,Golconda Fort,20.8,Yes,210996
+16,3,6,Golconda Fort,18.4,Yes,272803
+16,3,7,Golconda Fort,20.8,Yes,160939
+16,3,8,Golconda Fort,32.6,Yes,285176
+16,3,9,Golconda Fort,30.2,No,219719
+16,3,10,Golconda Fort,17.2,Yes,92743
+16,3,11,Golconda Fort,18.3,No,73246
+16,3,12,Golconda Fort,23.7,Yes,199845
+16,3,1,Ramoji Film City,20.4,Yes,60471
+16,3,2,Ramoji Film City,34.4,No,88038
+16,3,3,Ramoji Film City,15.5,Yes,232160
+16,3,4,Ramoji Film City,28.2,No,87752
+16,3,5,Ramoji Film City,18.7,No,74224
+16,3,6,Ramoji Film City,22.0,Yes,88209
+16,3,7,Ramoji Film City,16.1,Yes,85686
+16,3,8,Ramoji Film City,26.8,No,38556
+16,3,9,Ramoji Film City,28.7,No,52831
+16,3,10,Ramoji Film City,34.4,Yes,186445
+16,3,11,Ramoji Film City,27.9,Yes,188881
+16,3,12,Ramoji Film City,32.2,Yes,236620
+17,1,1,Tirupati Temple,24.2,No,180376
+17,1,2,Tirupati Temple,14.4,No,191055
+17,1,3,Tirupati Temple,30.7,Yes,115153
+17,1,4,Tirupati Temple,21.7,Yes,121193
+17,1,5,Tirupati Temple,22.8,Yes,275249
+17,1,6,Tirupati Temple,28.7,No,185863
+17,1,7,Tirupati Temple,34.0,Yes,156176
+17,1,8,Tirupati Temple,19.2,No,245700
+17,1,9,Tirupati Temple,19.7,No,233588
+17,1,10,Tirupati Temple,25.3,Yes,290357
+17,1,11,Tirupati Temple,21.8,Yes,170455
+17,1,12,Tirupati Temple,32.5,No,230689
+17,1,1,Araku Valley,33.7,Yes,148593
+17,1,2,Araku Valley,26.0,No,165677
+17,1,3,Araku Valley,28.5,No,28938
+17,1,4,Araku Valley,17.1,Yes,50425
+17,1,5,Araku Valley,12.0,No,139200
+17,1,6,Araku Valley,29.0,Yes,183217
+17,1,7,Araku Valley,29.2,No,291237
+17,1,8,Araku Valley,23.0,Yes,121124
+17,1,9,Araku Valley,16.8,No,28716
+17,1,10,Araku Valley,21.0,Yes,250818
+17,1,11,Araku Valley,23.2,No,292618
+17,1,12,Araku Valley,16.1,Yes,50203
+17,1,1,Vizag Beaches,17.3,No,101475
+17,1,2,Vizag Beaches,31.2,No,65238
+17,1,3,Vizag Beaches,18.4,No,268629
+17,1,4,Vizag Beaches,32.3,Yes,251202
+17,1,5,Vizag Beaches,28.3,Yes,228874
+17,1,6,Vizag Beaches,18.2,Yes,230279
+17,1,7,Vizag Beaches,23.4,No,284336
+17,1,8,Vizag Beaches,24.9,Yes,130202
+17,1,9,Vizag Beaches,10.7,No,56907
+17,1,10,Vizag Beaches,17.7,No,247074
+17,1,11,Vizag Beaches,18.8,No,248604
+17,1,12,Vizag Beaches,34.3,Yes,23082
+17,2,1,Tirupati Temple,34.6,Yes,207469
+17,2,2,Tirupati Temple,27.7,No,214532
+17,2,3,Tirupati Temple,11.8,Yes,147923
+17,2,4,Tirupati Temple,27.3,No,229167
+17,2,5,Tirupati Temple,27.3,No,88617
+17,2,6,Tirupati Temple,32.1,Yes,191658
+17,2,7,Tirupati Temple,30.8,Yes,205140
+17,2,8,Tirupati Temple,18.9,Yes,144496
+17,2,9,Tirupati Temple,23.0,No,112210
+17,2,10,Tirupati Temple,21.4,No,185297
+17,2,11,Tirupati Temple,25.2,Yes,281635
+17,2,12,Tirupati Temple,34.3,Yes,274597
+17,2,1,Araku Valley,12.6,No,164892
+17,2,2,Araku Valley,34.6,Yes,100028
+17,2,3,Araku Valley,26.9,No,84923
+17,2,4,Araku Valley,20.7,Yes,198676
+17,2,5,Araku Valley,15.1,Yes,252302
+17,2,6,Araku Valley,21.6,Yes,153069
+17,2,7,Araku Valley,18.7,No,178438
+17,2,8,Araku Valley,18.4,No,33425
+17,2,9,Araku Valley,27.9,Yes,54297
+17,2,10,Araku Valley,15.4,Yes,262756
+17,2,11,Araku Valley,25.9,No,209479
+17,2,12,Araku Valley,24.5,No,253745
+17,2,1,Vizag Beaches,18.0,No,45371
+17,2,2,Vizag Beaches,19.5,Yes,265449
+17,2,3,Vizag Beaches,17.5,Yes,47883
+17,2,4,Vizag Beaches,17.9,No,276190
+17,2,5,Vizag Beaches,20.8,Yes,121078
+17,2,6,Vizag Beaches,14.2,Yes,98504
+17,2,7,Vizag Beaches,23.9,No,80811
+17,2,8,Vizag Beaches,28.9,No,121019
+17,2,9,Vizag Beaches,19.4,No,104079
+17,2,10,Vizag Beaches,10.8,Yes,43409
+17,2,11,Vizag Beaches,12.8,No,85118
+17,2,12,Vizag Beaches,11.3,No,89600
+17,3,1,Tirupati Temple,25.4,No,204193
+17,3,2,Tirupati Temple,29.4,Yes,260105
+17,3,3,Tirupati Temple,23.1,Yes,72414
+17,3,4,Tirupati Temple,21.5,Yes,190057
+17,3,5,Tirupati Temple,27.7,No,250472
+17,3,6,Tirupati Temple,15.0,Yes,227708
+17,3,7,Tirupati Temple,12.0,No,80289
+17,3,8,Tirupati Temple,33.6,No,116930
+17,3,9,Tirupati Temple,23.9,Yes,285727
+17,3,10,Tirupati Temple,16.8,No,224219
+17,3,11,Tirupati Temple,34.6,No,244398
+17,3,12,Tirupati Temple,21.7,Yes,144591
+17,3,1,Araku Valley,20.7,Yes,65135
+17,3,2,Araku Valley,28.2,No,61562
+17,3,3,Araku Valley,29.1,No,51349
+17,3,4,Araku Valley,23.0,No,31330
+17,3,5,Araku Valley,24.2,Yes,214162
+17,3,6,Araku Valley,32.6,Yes,189990
+17,3,7,Araku Valley,26.4,Yes,248240
+17,3,8,Araku Valley,18.3,Yes,32817
+17,3,9,Araku Valley,29.7,No,275750
+17,3,10,Araku Valley,21.7,No,236495
+17,3,11,Araku Valley,27.7,Yes,148950
+17,3,12,Araku Valley,11.0,No,204767
+17,3,1,Vizag Beaches,25.2,Yes,151186
+17,3,2,Vizag Beaches,21.9,Yes,125261
+17,3,3,Vizag Beaches,21.1,No,147997
+17,3,4,Vizag Beaches,23.3,Yes,214556
+17,3,5,Vizag Beaches,29.2,Yes,297095
+17,3,6,Vizag Beaches,11.1,Yes,295489
+17,3,7,Vizag Beaches,33.2,Yes,161404
+17,3,8,Vizag Beaches,24.1,No,39435
+17,3,9,Vizag Beaches,32.8,No,247332
+17,3,10,Vizag Beaches,31.1,Yes,56915
+17,3,11,Vizag Beaches,13.0,Yes,206173
+17,3,12,Vizag Beaches,28.6,No,249362
+18,1,1,Bodh Gaya,15.0,Yes,240227
+18,1,2,Bodh Gaya,10.6,Yes,207029
+18,1,3,Bodh Gaya,11.4,No,99561
+18,1,4,Bodh Gaya,30.5,Yes,234946
+18,1,5,Bodh Gaya,34.5,No,28565
+18,1,6,Bodh Gaya,23.0,No,203223
+18,1,7,Bodh Gaya,32.0,No,196623
+18,1,8,Bodh Gaya,30.0,Yes,47794
+18,1,9,Bodh Gaya,26.7,No,125250
+18,1,10,Bodh Gaya,20.6,No,111170
+18,1,11,Bodh Gaya,16.1,No,82130
+18,1,12,Bodh Gaya,18.4,No,283559
+18,1,1,Nalanda,24.8,Yes,54999
+18,1,2,Nalanda,33.5,No,291380
+18,1,3,Nalanda,13.6,No,105017
+18,1,4,Nalanda,15.5,Yes,163932
+18,1,5,Nalanda,11.4,No,211308
+18,1,6,Nalanda,24.6,No,199290
+18,1,7,Nalanda,17.4,Yes,233365
+18,1,8,Nalanda,17.1,Yes,90524
+18,1,9,Nalanda,18.1,No,154475
+18,1,10,Nalanda,23.1,No,84919
+18,1,11,Nalanda,26.1,Yes,251694
+18,1,12,Nalanda,31.3,Yes,271003
+18,1,1,Patna Museum,10.6,Yes,189008
+18,1,2,Patna Museum,31.2,No,171366
+18,1,3,Patna Museum,18.0,Yes,294332
+18,1,4,Patna Museum,13.1,No,203215
+18,1,5,Patna Museum,16.4,Yes,290211
+18,1,6,Patna Museum,24.5,No,248860
+18,1,7,Patna Museum,17.8,No,84590
+18,1,8,Patna Museum,20.0,Yes,109372
+18,1,9,Patna Museum,22.8,Yes,201434
+18,1,10,Patna Museum,22.4,Yes,78903
+18,1,11,Patna Museum,30.6,No,46795
+18,1,12,Patna Museum,21.9,No,212360
+18,2,1,Bodh Gaya,26.4,No,223889
+18,2,2,Bodh Gaya,34.7,Yes,121846
+18,2,3,Bodh Gaya,10.2,No,163032
+18,2,4,Bodh Gaya,13.0,No,184629
+18,2,5,Bodh Gaya,11.2,No,72468
+18,2,6,Bodh Gaya,26.9,No,107110
+18,2,7,Bodh Gaya,20.0,No,159280
+18,2,8,Bodh Gaya,18.5,No,140521
+18,2,9,Bodh Gaya,29.8,Yes,270223
+18,2,10,Bodh Gaya,25.3,No,215549
+18,2,11,Bodh Gaya,31.2,Yes,296432
+18,2,12,Bodh Gaya,29.8,No,171557
+18,2,1,Nalanda,19.2,No,140065
+18,2,2,Nalanda,14.7,Yes,225985
+18,2,3,Nalanda,18.2,Yes,93744
+18,2,4,Nalanda,26.2,No,239870
+18,2,5,Nalanda,10.2,Yes,38669
+18,2,6,Nalanda,11.1,Yes,281286
+18,2,7,Nalanda,11.5,No,160603
+18,2,8,Nalanda,18.9,Yes,56404
+18,2,9,Nalanda,11.5,Yes,226943
+18,2,10,Nalanda,27.3,Yes,272756
+18,2,11,Nalanda,30.8,No,194349
+18,2,12,Nalanda,10.4,No,267517
+18,2,1,Patna Museum,17.7,Yes,207949
+18,2,2,Patna Museum,27.7,No,101564
+18,2,3,Patna Museum,11.0,Yes,266399
+18,2,4,Patna Museum,18.4,No,198511
+18,2,5,Patna Museum,13.5,No,130521
+18,2,6,Patna Museum,23.9,No,125472
+18,2,7,Patna Museum,22.8,Yes,90577
+18,2,8,Patna Museum,25.3,Yes,175503
+18,2,9,Patna Museum,31.0,Yes,259281
+18,2,10,Patna Museum,30.0,No,246464
+18,2,11,Patna Museum,33.1,Yes,180873
+18,2,12,Patna Museum,28.9,Yes,250207
+18,3,1,Bodh Gaya,24.8,No,232864
+18,3,2,Bodh Gaya,33.6,Yes,160276
+18,3,3,Bodh Gaya,16.1,No,215316
+18,3,4,Bodh Gaya,15.6,Yes,280243
+18,3,5,Bodh Gaya,31.8,No,23103
+18,3,6,Bodh Gaya,26.1,Yes,279803
+18,3,7,Bodh Gaya,18.0,Yes,107002
+18,3,8,Bodh Gaya,12.9,Yes,203871
+18,3,9,Bodh Gaya,24.0,Yes,58629
+18,3,10,Bodh Gaya,26.2,No,163580
+18,3,11,Bodh Gaya,15.6,Yes,129780
+18,3,12,Bodh Gaya,17.8,No,110856
+18,3,1,Nalanda,12.7,No,174978
+18,3,2,Nalanda,21.2,No,269941
+18,3,3,Nalanda,10.4,Yes,42342
+18,3,4,Nalanda,33.3,No,68684
+18,3,5,Nalanda,27.2,No,49370
+18,3,6,Nalanda,21.6,No,69464
+18,3,7,Nalanda,13.3,Yes,144489
+18,3,8,Nalanda,15.0,No,244767
+18,3,9,Nalanda,19.7,Yes,97630
+18,3,10,Nalanda,24.2,Yes,293786
+18,3,11,Nalanda,30.9,No,94611
+18,3,12,Nalanda,32.3,Yes,220063
+18,3,1,Patna Museum,25.3,No,242261
+18,3,2,Patna Museum,17.8,No,262292
+18,3,3,Patna Museum,33.1,Yes,56161
+18,3,4,Patna Museum,27.7,Yes,245896
+18,3,5,Patna Museum,26.2,No,264173
+18,3,6,Patna Museum,24.3,No,102167
+18,3,7,Patna Museum,11.7,Yes,291803
+18,3,8,Patna Museum,29.9,No,43532
+18,3,9,Patna Museum,10.9,No,178880
+18,3,10,Patna Museum,22.9,Yes,52398
+18,3,11,Patna Museum,20.8,No,287896
+18,3,12,Patna Museum,27.4,No,199307
+19,1,1,Mussoorie,26.9,No,230883
+19,1,2,Mussoorie,25.3,Yes,171324
+19,1,3,Mussoorie,29.3,Yes,128438
+19,1,4,Mussoorie,18.8,No,35089
+19,1,5,Mussoorie,11.9,No,165901
+19,1,6,Mussoorie,32.1,No,240341
+19,1,7,Mussoorie,21.8,Yes,244716
+19,1,8,Mussoorie,28.9,No,140064
+19,1,9,Mussoorie,28.2,Yes,197428
+19,1,10,Mussoorie,28.3,No,139125
+19,1,11,Mussoorie,34.8,Yes,61033
+19,1,12,Mussoorie,19.7,Yes,234867
+19,1,1,Nainital,23.2,Yes,75593
+19,1,2,Nainital,12.7,Yes,193425
+19,1,3,Nainital,21.5,No,290939
+19,1,4,Nainital,23.6,No,94182
+19,1,5,Nainital,23.5,No,28830
+19,1,6,Nainital,31.7,No,90282
+19,1,7,Nainital,29.0,Yes,99159
+19,1,8,Nainital,21.1,Yes,89335
+19,1,9,Nainital,12.6,No,221131
+19,1,10,Nainital,11.1,No,85899
+19,1,11,Nainital,29.4,No,273109
+19,1,12,Nainital,12.2,No,291481
+19,1,1,Haridwar,23.0,Yes,144609
+19,1,2,Haridwar,29.9,Yes,28614
+19,1,3,Haridwar,16.0,No,142653
+19,1,4,Haridwar,20.2,Yes,40687
+19,1,5,Haridwar,30.1,Yes,290522
+19,1,6,Haridwar,18.5,Yes,187945
+19,1,7,Haridwar,25.1,No,197823
+19,1,8,Haridwar,29.3,Yes,100618
+19,1,9,Haridwar,29.6,No,248437
+19,1,10,Haridwar,32.9,Yes,157080
+19,1,11,Haridwar,23.4,No,112629
+19,1,12,Haridwar,30.0,No,175653
+19,2,1,Mussoorie,15.6,Yes,149422
+19,2,2,Mussoorie,10.1,No,136816
+19,2,3,Mussoorie,27.2,No,154115
+19,2,4,Mussoorie,10.4,Yes,243334
+19,2,5,Mussoorie,29.8,Yes,221456
+19,2,6,Mussoorie,10.4,No,270740
+19,2,7,Mussoorie,17.0,Yes,205375
+19,2,8,Mussoorie,26.5,Yes,94710
+19,2,9,Mussoorie,30.2,Yes,269350
+19,2,10,Mussoorie,21.8,No,77685
+19,2,11,Mussoorie,15.2,Yes,265639
+19,2,12,Mussoorie,13.0,No,208155
+19,2,1,Nainital,34.3,Yes,255448
+19,2,2,Nainital,27.2,Yes,33279
+19,2,3,Nainital,19.0,Yes,254416
+19,2,4,Nainital,24.0,No,237630
+19,2,5,Nainital,34.1,Yes,250948
+19,2,6,Nainital,33.9,No,53277
+19,2,7,Nainital,12.1,Yes,112839
+19,2,8,Nainital,24.4,Yes,215475
+19,2,9,Nainital,16.0,Yes,91259
+19,2,10,Nainital,31.5,Yes,269896
+19,2,11,Nainital,26.2,No,24168
+19,2,12,Nainital,33.9,No,215774
+19,2,1,Haridwar,25.2,No,62249
+19,2,2,Haridwar,34.9,Yes,182438
+19,2,3,Haridwar,18.4,Yes,276803
+19,2,4,Haridwar,22.7,Yes,157476
+19,2,5,Haridwar,19.1,Yes,118303
+19,2,6,Haridwar,21.2,Yes,278597
+19,2,7,Haridwar,31.8,Yes,218778
+19,2,8,Haridwar,14.8,Yes,289748
+19,2,9,Haridwar,20.3,Yes,203204
+19,2,10,Haridwar,24.0,No,277371
+19,2,11,Haridwar,15.7,Yes,59800
+19,2,12,Haridwar,14.5,Yes,269325
+19,3,1,Mussoorie,12.9,No,48287
+19,3,2,Mussoorie,20.8,No,252977
+19,3,3,Mussoorie,12.3,No,225894
+19,3,4,Mussoorie,17.4,Yes,21085
+19,3,5,Mussoorie,33.3,Yes,66996
+19,3,6,Mussoorie,34.8,No,134134
+19,3,7,Mussoorie,30.7,Yes,257574
+19,3,8,Mussoorie,24.5,Yes,104482
+19,3,9,Mussoorie,29.3,Yes,155354
+19,3,10,Mussoorie,32.6,No,255989
+19,3,11,Mussoorie,25.8,Yes,119861
+19,3,12,Mussoorie,22.1,No,46418
+19,3,1,Nainital,16.5,Yes,183356
+19,3,2,Nainital,18.3,No,250874
+19,3,3,Nainital,26.8,Yes,218556
+19,3,4,Nainital,30.4,Yes,133174
+19,3,5,Nainital,23.9,No,112635
+19,3,6,Nainital,34.6,No,61289
+19,3,7,Nainital,14.1,Yes,281588
+19,3,8,Nainital,14.9,No,202351
+19,3,9,Nainital,28.4,No,135751
+19,3,10,Nainital,29.7,No,102567
+19,3,11,Nainital,27.8,No,61059
+19,3,12,Nainital,25.2,Yes,32221
+19,3,1,Haridwar,19.6,No,116482
+19,3,2,Haridwar,27.6,No,237324
+19,3,3,Haridwar,22.3,Yes,49287
+19,3,4,Haridwar,15.9,No,235350
+19,3,5,Haridwar,32.6,Yes,253375
+19,3,6,Haridwar,16.0,Yes,152171
+19,3,7,Haridwar,14.2,No,46103
+19,3,8,Haridwar,31.8,No,79101
+19,3,9,Haridwar,30.1,No,106972
+19,3,10,Haridwar,22.0,Yes,175618
+19,3,11,Haridwar,24.6,No,290736
+19,3,12,Haridwar,16.5,No,134859
+20,1,1,Srinagar Dal Lake,21.9,No,190418
+20,1,2,Srinagar Dal Lake,25.6,No,31416
+20,1,3,Srinagar Dal Lake,12.4,Yes,173609
+20,1,4,Srinagar Dal Lake,34.8,No,99080
+20,1,5,Srinagar Dal Lake,14.7,Yes,191085
+20,1,6,Srinagar Dal Lake,29.6,Yes,66015
+20,1,7,Srinagar Dal Lake,21.4,No,52655
+20,1,8,Srinagar Dal Lake,22.6,No,80514
+20,1,9,Srinagar Dal Lake,25.4,No,240797
+20,1,10,Srinagar Dal Lake,11.3,Yes,60179
+20,1,11,Srinagar Dal Lake,32.8,No,158778
+20,1,12,Srinagar Dal Lake,10.6,Yes,96365
+20,1,1,Gulmarg,22.6,No,202607
+20,1,2,Gulmarg,20.9,Yes,261620
+20,1,3,Gulmarg,14.9,No,114443
+20,1,4,Gulmarg,30.9,No,132060
+20,1,5,Gulmarg,25.1,No,180801
+20,1,6,Gulmarg,33.0,Yes,216281
+20,1,7,Gulmarg,34.9,No,273180
+20,1,8,Gulmarg,12.3,Yes,121812
+20,1,9,Gulmarg,33.9,Yes,268900
+20,1,10,Gulmarg,25.0,Yes,108328
+20,1,11,Gulmarg,27.1,Yes,280746
+20,1,12,Gulmarg,27.6,Yes,116083
+20,1,1,Vaishno Devi,20.2,Yes,163433
+20,1,2,Vaishno Devi,34.3,No,69539
+20,1,3,Vaishno Devi,10.4,Yes,149234
+20,1,4,Vaishno Devi,17.5,No,247137
+20,1,5,Vaishno Devi,20.2,Yes,74934
+20,1,6,Vaishno Devi,20.8,Yes,42467
+20,1,7,Vaishno Devi,34.8,Yes,97175
+20,1,8,Vaishno Devi,34.1,Yes,153794
+20,1,9,Vaishno Devi,27.6,No,72955
+20,1,10,Vaishno Devi,19.4,No,51976
+20,1,11,Vaishno Devi,17.2,Yes,31424
+20,1,12,Vaishno Devi,27.3,Yes,204766
+20,2,1,Srinagar Dal Lake,22.9,No,281309
+20,2,2,Srinagar Dal Lake,23.8,No,211930
+20,2,3,Srinagar Dal Lake,23.9,No,263683
+20,2,4,Srinagar Dal Lake,28.3,Yes,78301
+20,2,5,Srinagar Dal Lake,26.2,No,103126
+20,2,6,Srinagar Dal Lake,28.9,Yes,62398
+20,2,7,Srinagar Dal Lake,13.5,No,102994
+20,2,8,Srinagar Dal Lake,21.9,No,64321
+20,2,9,Srinagar Dal Lake,16.4,No,69860
+20,2,10,Srinagar Dal Lake,27.3,Yes,81735
+20,2,11,Srinagar Dal Lake,28.6,Yes,39389
+20,2,12,Srinagar Dal Lake,10.1,Yes,137381
+20,2,1,Gulmarg,28.8,No,157496
+20,2,2,Gulmarg,13.1,No,278764
+20,2,3,Gulmarg,11.9,No,149350
+20,2,4,Gulmarg,21.8,No,140555
+20,2,5,Gulmarg,19.2,Yes,280784
+20,2,6,Gulmarg,34.8,Yes,93677
+20,2,7,Gulmarg,18.2,Yes,154126
+20,2,8,Gulmarg,30.5,Yes,53824
+20,2,9,Gulmarg,16.2,Yes,275645
+20,2,10,Gulmarg,24.6,Yes,226834
+20,2,11,Gulmarg,10.2,No,70198
+20,2,12,Gulmarg,33.3,No,182529
+20,2,1,Vaishno Devi,17.6,No,269904
+20,2,2,Vaishno Devi,34.5,Yes,30523
+20,2,3,Vaishno Devi,11.9,No,156895
+20,2,4,Vaishno Devi,16.0,No,234668
+20,2,5,Vaishno Devi,28.1,Yes,171578
+20,2,6,Vaishno Devi,33.4,Yes,245756
+20,2,7,Vaishno Devi,14.1,Yes,81904
+20,2,8,Vaishno Devi,30.7,Yes,277690
+20,2,9,Vaishno Devi,26.1,No,182952
+20,2,10,Vaishno Devi,24.0,Yes,81011
+20,2,11,Vaishno Devi,25.4,No,154846
+20,2,12,Vaishno Devi,25.9,Yes,246844
+20,3,1,Srinagar Dal Lake,19.5,Yes,214270
+20,3,2,Srinagar Dal Lake,28.3,Yes,297770
+20,3,3,Srinagar Dal Lake,10.7,Yes,139681
+20,3,4,Srinagar Dal Lake,10.4,Yes,240067
+20,3,5,Srinagar Dal Lake,15.2,No,294348
+20,3,6,Srinagar Dal Lake,23.8,No,224585
+20,3,7,Srinagar Dal Lake,28.5,Yes,228516
+20,3,8,Srinagar Dal Lake,19.9,No,188617
+20,3,9,Srinagar Dal Lake,28.6,No,289614
+20,3,10,Srinagar Dal Lake,27.7,No,270347
+20,3,11,Srinagar Dal Lake,23.3,Yes,185445
+20,3,12,Srinagar Dal Lake,17.5,Yes,158840
+20,3,1,Gulmarg,26.5,No,22021
+20,3,2,Gulmarg,22.9,Yes,231806
+20,3,3,Gulmarg,20.2,Yes,207111
+20,3,4,Gulmarg,16.7,Yes,267433
+20,3,5,Gulmarg,34.6,No,252603
+20,3,6,Gulmarg,15.1,No,84360
+20,3,7,Gulmarg,31.0,No,171045
+20,3,8,Gulmarg,18.5,No,83042
+20,3,9,Gulmarg,10.0,No,51363
+20,3,10,Gulmarg,29.4,Yes,210172
+20,3,11,Gulmarg,18.1,No,83084
+20,3,12,Gulmarg,25.8,Yes,265164
+20,3,1,Vaishno Devi,29.3,Yes,120470
+20,3,2,Vaishno Devi,18.0,Yes,157261
+20,3,3,Vaishno Devi,19.0,No,55659
+20,3,4,Vaishno Devi,32.6,Yes,289903
+20,3,5,Vaishno Devi,13.4,Yes,234573
+20,3,6,Vaishno Devi,22.7,No,89841
+20,3,7,Vaishno Devi,23.8,Yes,164674
+20,3,8,Vaishno Devi,18.3,No,139938
+20,3,9,Vaishno Devi,24.0,Yes,202155
+20,3,10,Vaishno Devi,20.1,No,200698
+20,3,11,Vaishno Devi,11.0,No,258437
+20,3,12,Vaishno Devi,18.4,No,182676
