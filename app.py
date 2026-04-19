@@ -148,9 +148,12 @@ def train_models(request: Request):
     joblib.dump(place_encoder, os.path.join(MODEL_PATH, "place_encoder.joblib"))
     joblib.dump(state_encoder, os.path.join(MODEL_PATH, "state_encoder.joblib"))
 
-    return templates.TemplateResponse("train.html", {"request": request, "message": "✅ Models trained successfully!", "metrics": metrics})
+    return templates.TemplateResponse("train.html", {
+    "request": request,
+    "message": "✅ Models trained successfully!",
+    "metrics": metrics  # your metrics dictionary from training
+})
 
-# -------------------------
 # Get places by state (API)
 # -------------------------
 @app.get("/places/{state}", response_class=JSONResponse)
@@ -167,7 +170,21 @@ def predict_get(request: Request):
     tourism, _, _ = load_data()
     states = sorted(tourism["State_Name"].unique())
     places = sorted(tourism["Famous_Place"].unique())
-    return templates.TemplateResponse("predict.html", {"request": request, "states": states, "places": places, "results": None})
+    
+    # Empty initial data for charts
+    yearly_data = []
+    transport_counts = []
+    sentiment_counts = []
+
+    return templates.TemplateResponse("predict.html", {
+        "request": request,
+        "states": states,
+        "places": places,
+        "results": None,
+        "yearly_data": yearly_data,
+        "transport_counts": transport_counts,
+        "sentiment_counts": sentiment_counts
+    })
 
 # -------------------------
 # Predict (POST)
@@ -178,7 +195,7 @@ def predict_post(request: Request,
                  place: str = Form(...),
                  month: str = Form(...)):
 
-    tourism, _, _ = load_data()  # Load full data
+    tourism, transport, social = load_data()  # Load full data
 
     states = sorted(tourism["State_Name"].unique())
     places = sorted(tourism[tourism["State_Name"] == state]["Famous_Place"].unique())
@@ -207,20 +224,30 @@ def predict_post(request: Request,
         if target in models:
             results[target] = round(float(models[target].predict(X_input)[0]),2)
 
-    # Transport
-    global transport_encoder, sentiment_encoder
-    if transport_encoder is None and os.path.exists(os.path.join(MODEL_PATH,"transport.joblib")):
-        models["transport"], transport_encoder = joblib.load(os.path.join(MODEL_PATH,"transport.joblib"))
-    if sentiment_encoder is None and os.path.exists(os.path.join(MODEL_PATH,"sentiment.joblib")):
-        models["sentiment"], sentiment_encoder = joblib.load(os.path.join(MODEL_PATH,"sentiment.joblib"))
+    # -------------------------
+    # Prepare data for visualizations
+    # Year-wise numeric data for selected state and place
+    yearly_df = tourism[(tourism["State_Name"]==state) & (tourism["Famous_Place"]==place)]
+    yearly_data = yearly_df[["Year_ID","Domestic_Visitors","Foreign_Visitors"]].to_dict(orient="records")
 
-    if "transport" in models and transport_encoder:
-        pred_t = models["transport"].predict([[state_enc, month_num]])[0]
-        results["Preferred_Transport"] = transport_encoder.inverse_transform([pred_t])[0]
+    # Transport counts for pie chart (synthetic)
+    transport_state_df = transport[transport["State_Name"]==state].copy()
+    if "Preferred_Transport" not in transport_state_df.columns:
+        # Create synthetic transport preference
+        transport_state_df["Preferred_Transport"] = np.where(
+            transport_state_df["No_of_Railway_Stations"] > transport_state_df["No_of_Airports"], "Train", "Air"
+        )
+    transport_counts_df = transport_state_df["Preferred_Transport"].value_counts().reset_index()
+    transport_counts_df.columns = ["type","count"]
+    transport_counts = transport_counts_df.to_dict(orient="records")
 
-    if "sentiment" in models and sentiment_encoder:
-        pred_s = models["sentiment"].predict([[state_enc, month_num]])[0]
-        results["Review_Sentiment"] = sentiment_encoder.inverse_transform([pred_s])[0]
+    # Sentiment counts for pie chart
+    if "Sentiment_Score" in social.columns:
+        sentiment_counts_df = social[social["State_Name"]==state]["Sentiment_Score"].value_counts().reset_index()
+        sentiment_counts_df.columns = ["type","count"]
+        sentiment_counts = sentiment_counts_df.to_dict(orient="records")
+    else:
+        sentiment_counts = []
 
     return templates.TemplateResponse("predict.html", {
         "request": request,
@@ -229,9 +256,11 @@ def predict_post(request: Request,
         "places": places,
         "selected_state": state,
         "selected_place": place,
-        "selected_month": month
+        "selected_month": month,
+        "yearly_data": yearly_data,
+        "transport_counts": transport_counts,
+        "sentiment_counts": sentiment_counts
     })
-
 
 # -------------------------
 # Index
@@ -242,4 +271,4 @@ def index(request: Request):
 
 if __name__ == "__main__":
     import uvicorn
-    uvicorn.run("app1:app", host="127.0.0.1", port=8000, reload=True)
+    uvicorn.run("app:app", host="127.0.0.1", port=8000, reload=True)

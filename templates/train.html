@@ -2,80 +2,85 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Train Models</title>
-    <link rel="stylesheet" href="/static/style.css">
+    <title>Model Training</title>
     <style>
         body {
-            font-family: Arial, sans-serif;
-            padding: 20px;
-            background-color: #f8f9fa;
-        }
-        h1, h3 {
+            font-family: 'Poppins', sans-serif;
+            background: linear-gradient(120deg, #89f7fe, #66a6ff);
             color: #333;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            min-height: 100vh;
+            margin: 0;
+            padding: 0;
         }
-        table {
-            border-collapse: collapse;
-            width: 70%;
+
+        h1 {
+            margin-top: 50px;
+            font-size: 2rem;
+            color: #fff;
+            text-shadow: 1px 1px 6px rgba(0,0,0,0.2);
+        }
+
+        .container {
+            background: #fff;
+            padding: 30px 40px;
+            border-radius: 16px;
+            box-shadow: 0 8px 16px rgba(0,0,0,0.2);
+            margin-top: 30px;
+            max-width: 600px;
+            width: 100%;
+        }
+
+        ul {
+            list-style: none;
+            padding: 0;
+        }
+
+        li {
+            background: #f1f8ff;
+            margin: 8px 0;
+            padding: 10px 15px;
+            border-radius: 8px;
+            border-left: 4px solid #66a6ff;
+        }
+
+        a {
+            text-decoration: none;
+            color: #fff;
+            font-weight: 600;
             margin-top: 20px;
+            display: inline-block;
         }
-        th, td {
-            border: 1px solid #ddd;
-            padding: 10px;
-            text-align: center;
-        }
-        th {
-            background-color: #007bff;
-            color: white;
-        }
-        tr:nth-child(even) {
-            background-color: #f2f2f2;
-        }
-        .message {
-            padding: 10px;
-            background-color: #d4edda;
-            border: 1px solid #c3e6cb;
-            color: #155724;
-            border-radius: 5px;
-            margin-bottom: 20px;
-            width: 70%;
+
+        a:hover {
+            text-decoration: underline;
         }
     </style>
 </head>
 <body>
-    <h1>Train Models</h1>
 
-    {% if message %}
-    <div class="message">{{ message }}</div>
-    {% endif %}
+    <h1>Model Training Status</h1>
 
-    {% if metrics %}
-    <h3>Model Performance Metrics</h3>
-    <table>
-        <tr>
-            <th>Target / Model</th>
-            <th>R² / Accuracy</th>
-            <th>RMSE</th>
-        </tr>
-        {% for key, value in metrics.items() %}
-        <tr>
-            <td>{{ key }}</td>
-            <td>
-                {% if value.R2 is defined %}
-                    {{ value.R2 }}
-                {% else %}
-                    {{ value.Accuracy }}
-                {% endif %}
-            </td>
-            <td>
-                {% if value.RMSE is defined %}
-                    {{ value.RMSE }}
-                {% else %}
-                    -
-                {% endif %}
-            </td>
-        </tr>
-        {% endfor %}
-    </table>
-    {% endif %}
+    <div class="container">
+        <p>{{ message }}</p>
+
+        {% if metrics %}
+        <h2>Training Metrics</h2>
+        <ul>
+            {% for model, metric in metrics.items() %}
+                <li><b>{{ model }}:</b> 
+                    {% for k,v in metric.items() %}
+                        {{ k }} = {{ v }}{% if not loop.last %}, {% endif %}
+                    {% endfor %}
+                </li>
+            {% endfor %}
+        </ul>
+        {% endif %}
+
+        <a href="/">← Back to Home</a>
+    </div>
+
 </body>
 </html>

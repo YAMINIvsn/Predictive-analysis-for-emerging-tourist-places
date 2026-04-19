@@ -1,73 +1,204 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-    <title>Tourism Prediction</title>
+<meta charset="UTF-8">
+<title>Smart Tourism Prediction</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet">
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<style>
+  body {
+    font-family: 'Poppins', sans-serif;
+    background: linear-gradient(135deg, #667eea, #764ba2);
+    margin: 0;
+    padding: 0;
+    color: #333;
+  }
+
+  h1 {
+    color: #fff;
+    text-align: center;
+    padding: 30px 10px 10px 10px;
+    font-size: 2.5rem;
+    text-shadow: 2px 2px 8px rgba(0,0,0,0.3);
+  }
+
+  form {
+    background: #fff;
+    margin: 20px auto;
+    padding: 25px 30px;
+    border-radius: 15px;
+    max-width: 500px;
+    box-shadow: 0 8px 20px rgba(0,0,0,0.2);
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+  }
+
+  label { font-weight: 600; }
+  select, button { padding: 10px; border-radius: 8px; border:1px solid #ccc; font-size:1rem; }
+  button { background: linear-gradient(135deg,#667eea,#764ba2); color:#fff; border:none; cursor:pointer; font-weight:600; transition:0.3s; }
+  button:hover { transform: translateY(-2px); box-shadow:0 5px 15px rgba(102,126,234,0.5); }
+
+  a { text-decoration:none; color:#fff; font-weight:600; display:inline-block; margin:20px; }
+  a:hover { text-decoration:underline; }
+
+  .results-card {
+    background: #fff;
+    margin: 20px auto;
+    padding: 20px;
+    border-radius: 15px;
+    max-width: 700px;
+    box-shadow: 0 8px 20px rgba(0,0,0,0.2);
+  }
+  .results-card h2 { text-align:center; color:#333; margin-bottom:15px; }
+
+  .results-card ul { list-style:none; padding:0; display:grid; grid-template-columns: repeat(auto-fit,minmax(200px,1fr)); gap:10px; }
+  .results-card li { background:#f1f8ff; padding:10px 15px; border-radius:8px; font-weight:600; border-left:4px solid #667eea; }
+
+  /* Charts grid */
+  .charts-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 25px;
+    max-width: 1200px;
+    margin: 30px auto;
+  }
+
+  .chart-card {
+    background: #fff;
+    border-radius: 15px;
+    padding: 20px;
+    box-shadow: 0 8px 20px rgba(0,0,0,0.2);
+    display: flex;
+    flex-direction: column;
+    height: 400px;
+  }
+
+  .chart-card canvas { flex:1; width:100% !important; }
+
+  @media(max-width: 900px){
+    .charts-grid { grid-template-columns: 1fr; }
+    .chart-card { height: 350px; }
+  }
+</style>
 </head>
 <body>
-    <h1>Tourism Prediction</h1>
 
-    <form method="post" action="/predict">
-  <label>State:</label>
+<h1>🌍 Smart Tourism Prediction Dashboard</h1>
+
+<form method="post" action="/predict">
+  <label for="state">State:</label>
   <select id="state" name="state" required>
     <option value="">--Select State--</option>
     {% for s in states %}
-      <option value="{{s}}">{{s}}</option>
+      <option value="{{s}}" {% if selected_state==s %}selected{% endif %}>{{s}}</option>
     {% endfor %}
   </select>
 
-  <label>Famous Place:</label>
+  <label for="place">Famous Place:</label>
   <select id="place" name="place" required>
     <option value="">--Select Place--</option>
     {% for p in places %}
-      <option value="{{p}}">{{p}}</option>
+      <option value="{{p}}" {% if selected_place==p %}selected{% endif %}>{{p}}</option>
     {% endfor %}
   </select>
 
-  <label>Month:</label>
-  <select name="month" required>
+  <label for="month">Month:</label>
+  <select id="month" name="month" required>
     {% for m in ["January","February","March","April","May","June","July","August","September","October","November","December"] %}
-      <option value="{{m}}">{{m}}</option>
+      <option value="{{m}}" {% if selected_month==m %}selected{% endif %}>{{m}}</option>
     {% endfor %}
   </select>
 
   <button type="submit">Predict</button>
 </form>
 
-<script>
-document.getElementById("state").addEventListener("change", function(){
-    const state = this.value;
-    fetch(`/places/${state}`)
-      .then(res => res.json())
-      .then(data => {
-          const placeSelect = document.getElementById("place");
-          placeSelect.innerHTML = '<option value="">--Select Place--</option>';
-          data.places.forEach(p => {
-              placeSelect.innerHTML += `<option value="${p}">${p}</option>`;
-          });
-      });
-});
-</script>
-
 {% if results %}
-<h2>Prediction Results:</h2>
-<ul>
-  {% for k,v in results.items() %}
-    <li><b>{{k}}:</b> {{v}}</li>
-  {% endfor %}
-</ul>
+<div class="results-card">
+  <h2>Prediction Results</h2>
+  <ul>
+    {% for key,value in results.items() %}
+      <li>{{ key }}: {{ value }}</li>
+    {% endfor %}
+  </ul>
+</div>
+
+<div class="charts-grid">
+  <div class="chart-card">
+    <canvas id="visitorsChart"></canvas>
+  </div>
+  <div class="chart-card">
+    <canvas id="hotelChart"></canvas>
+  </div>
+ 
+  <div class="chart-card">
+    <canvas id="compositionChart"></canvas>
+  </div>
+</div>
 {% endif %}
 
+<a href="/">← Back to Home</a>
+
+<script>
+{% if results %}
+const yearlyData = {{ yearly_data | tojson }};
+const transportCounts = {{ transport_counts | tojson }};
+const sentimentCounts = {{ sentiment_counts | tojson }};
+
+// Visitors Line Chart
+new Chart(document.getElementById('visitorsChart').getContext('2d'), {
+  type:'line',
+  data:{
+    labels: yearlyData.map(d=>"Year "+d.Year_ID).concat("Prediction"),
+    datasets:[
+      { label:'Domestic Visitors', data: yearlyData.map(d=>d.Domestic_Visitors).concat({{ results['Domestic_Visitors'] }}), borderColor:'#667eea', backgroundColor:'rgba(102,126,234,0.2)', fill:true },
+      { label:'Foreign Visitors', data: yearlyData.map(d=>d.Foreign_Visitors).concat({{ results['Foreign_Visitors'] }}), borderColor:'#764ba2', backgroundColor:'rgba(118,75,162,0.2)', fill:true }
+    ]
+  },
+  options:{ responsive:true, maintainAspectRatio:false, plugins:{ title:{ display:true, text:'Yearly Visitors Trend' }, legend:{position:'top'} } }
+});
+
+// Hotel Prices Bar Chart
+new Chart(document.getElementById('hotelChart').getContext('2d'), {
+  type:'bar',
+  data:{
+    labels:['Luxury Hotel','Budget Hotel'],
+    datasets:[{label:'Price Prediction', data:[{{ results['Budget_Hotel_Price'] }}, {{ results['Luxury_Hotel_Price'] }}], backgroundColor:['#667eea','#764ba2']}]
+  },
+  options:{ responsive:true, maintainAspectRatio:false, plugins:{ title:{ display:true, text:'Hotel Price Prediction' } }, scales:{ y:{ beginAtZero:true } } }
+});
 
 
-    {% if results %}
-    <h2>Results:</h2>
-    <ul>
-        {% for key, value in results.items() %}
-        <li>{{ key }} : {{ value }}</li>
-        {% endfor %}
-    </ul>
-    {% endif %}
 
-    <a href="/">Back to Home</a>
+// Composition Pie Chart
+new Chart(document.getElementById('compositionChart').getContext('2d'), {
+  type:'pie',
+  data:{
+    labels:['Domestic Visitors','Foreign Visitors'],
+    datasets:[{data:[{{ results['Domestic_Visitors'] }}, {{ results['Foreign_Visitors'] }}], backgroundColor:['#667eea','#764ba2']}]
+  },
+  options:{ responsive:true, maintainAspectRatio:false, plugins:{ title:{ display:true, text:'Visitor Composition' } } }
+});
+
+// Dynamic Places Dropdown
+document.getElementById("state").addEventListener("change", function(){
+  const state = this.value;
+  fetch(`/places/${state}`)
+    .then(res => res.json())
+    .then(data => {
+      const placeSelect = document.getElementById("place");
+      placeSelect.innerHTML = '<option value="">--Select Place--</option>';
+      data.places.forEach(p => {
+        const opt = document.createElement("option");
+        opt.value = p;
+        opt.textContent = p;
+        placeSelect.appendChild(opt);
+      });
+    });
+});
+{% endif %}
+</script>
+
 </body>
 </html>
